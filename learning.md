@@ -1,5 +1,6 @@
 # Learning
 
+- [Microsoft Accessibility Features and Tools Module](https://docs.microsoft.com/en-us/learn/modules/accessibility-features/?WT.mc_id=linkedin)
 - [Accessibility Free Online Courses and MOOCs](https://www.mooc-list.com/tags/accessibility)
 - ['Accessibility' search results | Treehouse](https://teamtreehouse.com/library/q:accessibility)
 - ['Accessibility' search results | egghead.io](https://egghead.io/search?query=accessibility)

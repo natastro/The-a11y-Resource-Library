@@ -5,6 +5,8 @@
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 - [An intro to designing accessible data visualizations by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
+- [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
+- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Quick tip: Reviewing a design for accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-08-14-reviewing-a-design-for-accessibility/)
 - [Resources for Designing for the Colorblind - We are Colorblind](https://wearecolorblind.com/resources/collection/resources-for-designing-for-the-colorblind/)

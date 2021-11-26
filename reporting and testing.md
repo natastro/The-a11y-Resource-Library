@@ -17,6 +17,7 @@
 - [Mobile Screen Reader Testing – Scott Vinkle](https://scottvinkle.me/blogs/work/mobile-screen-reader-testing)
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
+- [WCAG 2.1 success criteria filter tool | CANAXESS](https://wcag-filter-tool.com/)
 - [WCAG-EM-Report-Tool](https://www.w3.org/WAI/eval/report-tool/)
 - [wcagify  -  npm](https://www.npmjs.com/package/wcagify)
 - [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)

@@ -11,6 +11,7 @@
 - [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessible Palette: stop using HSL for color systems | Wildbit](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
+- [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)

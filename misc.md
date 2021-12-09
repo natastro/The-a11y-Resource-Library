@@ -29,6 +29,8 @@
 - [Knowbility – Digital accessibility consulting, training, and advocacy — Knowbility](https://knowbility.org/)
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
+- [Overlay Fact Sheet](https://overlayfactsheet.com/)
+- [Overlay False Claims](https://overlayfalseclaims.com/)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)

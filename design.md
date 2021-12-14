@@ -9,6 +9,7 @@
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
+- [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)

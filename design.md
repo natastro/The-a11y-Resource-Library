@@ -11,6 +11,7 @@
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
+- [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)
 - [Quick tip: Reviewing a design for accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-08-14-reviewing-a-design-for-accessibility/)

@@ -15,6 +15,7 @@
 - [HTML test cases](https://russmaxdesign.github.io/accessible-forms/)
 - [International Association of Accessibility Professionals: IAAP](https://www.accessibilityassociation.org/)
 - [Introducing: an Eleventy starter project for WCAG reports (hiddedevries.nl)](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports)
+- [Introduction to Cognitive Disability and Accessibility Testing - TPGi](https://www.tpgi.com/introduction-to-cognitive-disability-and-accessibility-testing/)
 - [Mobile Screen Reader Testing – Scott Vinkle](https://scottvinkle.me/blogs/work/mobile-screen-reader-testing)
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)

@@ -10,6 +10,7 @@
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
+- [Everything You Need to Know About Captioned Videos | Meryl.net home](https://meryl.net/captioned-videos-complete-guide/)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)

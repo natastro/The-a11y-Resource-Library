@@ -16,6 +16,7 @@
 [SLAIT’s real-time sign language translation promises more accessible online communication – TechCrunch](https://techcrunch.com/2021/04/26/slaits-real-time-sign-language-translation-promises-more-accessible-online-communication/)
 
 ## Switch Control
+[Axess Lab |   Assistive Technologies  – The Switch](https://axesslab.com/switches/)
 [I Used a Switch Control for a Day - 24 Accessibility (24a11y.com)](https://www.24a11y.com/2018/i-used-a-switch-control-for-a-day/)
 [One switch. One head. The world.](https://www.youtube.com/watch?v=cSSgndQ5mVs)
 

@@ -6,6 +6,7 @@
 - [Accessible Maps on the Web | Equal Entry](https://equalentry.com/accessible-maps-on-the-web/)
 - [accessible-slick - the last (accessible) carousel you'll ever need (accessible360.github.io)](https://accessible360.github.io/accessible-slick/)
 - [Axess Lab |   Accessible datepickers](https://axesslab.com/accessible-datepickers/)
+- [Best practices for a chatbot - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/web/components-examples/chatbot/)
 - [CSS { In Real Life } | Accessible Toggles](https://css-irl.info/accessible-toggles/)
 - [Datepicker](https://dequeuniversity.com/library/aria/date-picker)
 - [Demo - Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker/)

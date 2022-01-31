@@ -3,6 +3,7 @@
 - [5 tips on designing colorblind-friendly visualizations](https://www.tableau.com/about/blog/examining-data-viz-rules-dont-use-red-green-together)
 - [10 Guidelines for DataViz Accessibility - Highcharts](https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/)
 - [A Comprehensive Guide to Accessible Data Visualization](https://www.betterment.com/design/accessible-data-visualization)
+- [Accessibility and 2022: 13 Design Trends From a Usability Perspective](https://bhmbizsites.com/accessibility-and-2022-13-design-trends-from-a-usability-perspective/)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 - [Adding A Dyslexia-Friendly Mode To A Website — Smashing Magazine](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)
 - [An intro to designing accessible data visualizations by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)

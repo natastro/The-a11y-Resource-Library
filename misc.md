@@ -31,6 +31,7 @@
 - [Knowbility – Digital accessibility consulting, training, and advocacy — Knowbility](https://knowbility.org/)
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
+- [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
 - [Overlay Fact Sheet](https://overlayfactsheet.com/)
 - [Overlay False Claims](https://overlayfalseclaims.com/)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)

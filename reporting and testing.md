@@ -15,6 +15,7 @@
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)
+- [How to use the accessibility tree for a11y testing](https://giovanicamara.com/blog/how-to-use-the-accessibility-tree-for-a11y-testing/)
 - [HTML test cases](https://russmaxdesign.github.io/accessible-forms/)
 - [International Association of Accessibility Professionals: IAAP](https://www.accessibilityassociation.org/)
 - [Introducing: an Eleventy starter project for WCAG reports (hiddedevries.nl)](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports)

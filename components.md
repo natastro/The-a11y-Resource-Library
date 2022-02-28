@@ -27,4 +27,5 @@
 - [Simplifying Form Styles With accent-color — Smashing Magazine](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 - [States | Material Design](https://material.io/design/interaction/states.html#usage)
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
+- [Turning the tables on accessibility](https://www.theguardian.com/info/2022/feb/22/turning-the-tables-on-accessibility)
 - [Web Accessible Code Libraries and Design Patterns – Web Axe](http://www.webaxe.org/web-accessible-code-library-design-systems-patterns/)

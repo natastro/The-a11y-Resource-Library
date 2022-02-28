@@ -39,6 +39,7 @@
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
 - [This Software Lets You Play Minecraft with Your Eyes | Beebom](https://beebom.com/software-lets-disabled-gamers-play-minecraft-with-eyes/)
+- [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [We need beach access for everyone, and that includes people with a disability (theconversation.com)](https://theconversation.com/we-need-beach-access-for-everyone-and-that-includes-people-with-a-disability-154158?utm_medium=amplinkedin&utm_source=linkedin)
 - [Web Accessibility for Newbies. Introductory information and advice on… | by Karina Chow | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/web-accessibility-for-newbies-1098fa15f9f0)

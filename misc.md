@@ -35,6 +35,7 @@
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
 - [Overlay Fact Sheet](https://overlayfactsheet.com/)
 - [Overlay False Claims](https://overlayfalseclaims.com/)
+- [Overlay Position and Recommendations](https://www.accessibilityassociation.org/s/overlay-position-and-recommendations)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)

@@ -16,6 +16,7 @@
 - [Disable HTML elements - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/articles/disable-elements/)
 - [Esri Accessibility | Software Accessibility for ArcGIS Products](https://www.esri.com/en-us/accessibility/overview)
 - [Focus state ideas by Kelsey Cavitt on Dribbble](https://dribbble.com/shots/12592251-Focus-state-ideas)
+- [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)
 - [Ikonate – fully customisable & accessible vector icons](https://ikonate.com/)
 - [Inclusive datepicker | Tommy Feldt](https://fymmot.github.io/inclusive-dates/)
 - [Maps | Accessibility Guidelines](http://web-accessibility.carnegiemuseums.org/content/maps/)

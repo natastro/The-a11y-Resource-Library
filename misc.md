@@ -11,6 +11,7 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)
 - [Accessibility auditing and ego – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/accessibility-auditing-and-ego/)
+- [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)
 - [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessible Palette: stop using HSL for color systems | Wildbit](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)

@@ -5,6 +5,8 @@
 - [84 cognitive biases that will help you design better-converting products (mobilespoon.net)](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
 - [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
+- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
+- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Access Guide](https://accessguide.io/d6a894bb4b234af3a5da4d2632338fff?v=465d85d448264d6da49cca67a4b5c442)
 - [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)

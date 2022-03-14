@@ -3,6 +3,7 @@
 - [16px or Larger Text Prevents iOS Form Zoom | CSS-Tricks](https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/)
 - [A 4-step process for testing the accessibility of your designs | by Justine Win | Shopify UX](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
+- [A11yAutomation](https://a11y-automation.dev/)
 - [Accessibility Bookmarklets (accessibility-bookmarklets.org)](https://accessibility-bookmarklets.org/install.html)
 - [Accessibility monitoring: How we test](https://www.gov.uk/guidance/accessibility-monitoring-how-we-test)
 - [Accessibility Support](https://a11ysupport.io/)

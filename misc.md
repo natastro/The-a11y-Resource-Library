@@ -34,6 +34,7 @@
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)
 - [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
+- [HTML semantics](https://gomakethings.com/html-semantics/)
 - [It needs to map back to a role](https://ericwbailey.design/writing/it-needs-to-map-back-to-a-role/)
 - [It’s all squiggles to me. The letterforms we use daily to write… | by Bruno Maag | The Readability Group | Jun, 2021 | Medium](https://medium.com/the-readability-group/its-all-squiggles-to-me-541b326a94a8)
 - [Knowbility – Digital accessibility consulting, training, and advocacy — Knowbility](https://knowbility.org/)

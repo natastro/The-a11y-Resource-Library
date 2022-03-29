@@ -25,6 +25,7 @@
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
+- [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
 - [WCAG 2.1 success criteria filter tool | CANAXESS](https://wcag-filter-tool.com/)
 - [WCAG-EM-Report-Tool](https://www.w3.org/WAI/eval/report-tool/)
 - [wcagify  -  npm](https://www.npmjs.com/package/wcagify)

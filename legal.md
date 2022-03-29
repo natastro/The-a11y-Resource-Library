@@ -1,6 +1,7 @@
 # Legal
 
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
+- [Justice Department Issues Web Accessibility Guidance Under the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
 - [Law Office of Lainey Feingold – Structured Negotiation | Disability Rights](https://www.lflegal.com/)
 - [Lawsuits Over Digital Accessibility for People With Disabilities Are Rising - WSJ](https://www.wsj.com/articles/lawsuits-over-digital-accessibility-for-people-with-disabilities-are-rising-11626369056)
 - [Legal Update:  Accessibility Overlay Edition - Law Office of Lainey Feingold](https://www.lflegal.com/2021/11/overlay-legal-update/)

@@ -31,6 +31,7 @@
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Download the Atkinson Hyperlegible Font | Braille Institute](https://brailleinstitute.org/freefont?ref=sidebar)
 - [Five ways to include d/Deaf users in your designs - TPGi](https://www.tpgi.com/five-ways-to-include-d-deaf-users-in-your-designs/)
+- [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)

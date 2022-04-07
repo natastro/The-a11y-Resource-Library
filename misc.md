@@ -46,6 +46,7 @@
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
+- [ND Life Experiences](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/nd-life-experiences-22?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Overlay Fact Sheet](https://overlayfactsheet.com/)
 - [Overlay False Claims](https://overlayfalseclaims.com/)
 - [Overlay Position and Recommendations](https://www.accessibilityassociation.org/s/overlay-position-and-recommendations)

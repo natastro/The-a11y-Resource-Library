@@ -2,6 +2,7 @@
 
 - [A Complete Guide to Accessible Front-end Components](https://t.co/MypiSiC0Zh?amp=1)
 - [Accessibility Guide for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf)
+- [Accessible Cards](https://kittygiraudel.com/2022/04/02/accessible-cards/)
 - [Accessible Maps](https://www.w3.org/WAI/RD/wiki/Accessible_Maps)
 - [Accessible Maps on the Web | Equal Entry](https://equalentry.com/accessible-maps-on-the-web/)
 - [accessible-slick - the last (accessible) carousel you'll ever need (accessible360.github.io)](https://accessible360.github.io/accessible-slick/)

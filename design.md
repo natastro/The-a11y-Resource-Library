@@ -10,6 +10,7 @@
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 - [Adding A Dyslexia-Friendly Mode To A Website — Smashing Magazine](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)
 - [An intro to designing accessible data visualizations by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
+- [Cognitive Accessibility Design Patterns](https://www.w3.org/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
 - [Comic Sans is a good typeface, actually](https://ericwbailey.design/writing/comic-sans-is-a-good-typeface-actually/)

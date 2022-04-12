@@ -11,6 +11,7 @@
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Access Guide](https://accessguide.io/d6a894bb4b234af3a5da4d2632338fff?v=465d85d448264d6da49cca67a4b5c442)
+- [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)

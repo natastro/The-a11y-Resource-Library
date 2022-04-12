@@ -1,5 +1,8 @@
 # Assistive Technology
 
+## Braille
+[Welcome to Braille Scanner](https://twitter.com/azzoor/status/1509666205749354501)
+
 ## Colorblindness
 [EnChroma® Color Blind Glasses | Cutting-Edge Lens Technology](https://enchroma.com/)
 

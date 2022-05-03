@@ -28,6 +28,7 @@
 - [On the `<dl>`](https://benmyers.dev/blog/on-the-dl/)
 - [Pausing a GIF with details/summary CSS-Tricks](https://css-tricks.com/pause-gif-details-summary/)
 - [Popover Widget - Technology Services Accessibility Examples](https://techservicesillinois.github.io/accessibility/examples/popover.html)
+- [Progressive Enhancement and HTML Forms: use FormData](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)
 - [Simplifying Form Styles With accent-color — Smashing Magazine](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 - [States | Material Design](https://material.io/design/interaction/states.html#usage)
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)

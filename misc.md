@@ -61,6 +61,7 @@
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
 - [This Software Lets You Play Minecraft with Your Eyes | Beebom](https://beebom.com/software-lets-disabled-gamers-play-minecraft-with-eyes/)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
+- [https://webaim.org/blog/tips-for-accessible-screen-sharing/](Tips for Accessible Screen Sharing)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)

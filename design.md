@@ -16,6 +16,7 @@
 - [Comic Sans is a good typeface, actually](https://ericwbailey.design/writing/comic-sans-is-a-good-typeface-actually/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
+- [Designing for Web Accessibility in 60 Seconds](https://davidakennedy.com/blog/accessible-design-in-60-seconds/)
 - [Everything You Need to Know About Captioned Videos | Meryl.net home](https://meryl.net/captioned-videos-complete-guide/)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
 - [Foundations: colour and meaning](https://tetralogical.com/blog/2022/02/15/colour-meaning/)

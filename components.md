@@ -17,6 +17,7 @@
 - [Design Patterns and Widgets | WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
 - [Designing Toast Messages for Accessibility | by Sheri Byrne-Haber, CPACC | Medium](https://sheribyrnehaber.medium.com/designing-toast-messages-for-accessibility-fb610ac364be)
 - [Disable HTML elements - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/articles/disable-elements/)
+- [Divs are bad!](https://www.matuzo.at/blog/2022/divs-are-bad/)
 - [Esri Accessibility | Software Accessibility for ArcGIS Products](https://www.esri.com/en-us/accessibility/overview)
 - [Focus state ideas by Kelsey Cavitt on Dribbble](https://dribbble.com/shots/12592251-Focus-state-ideas)
 - [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)

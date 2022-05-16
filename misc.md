@@ -45,6 +45,7 @@
 - [It needs to map back to a role](https://ericwbailey.design/writing/it-needs-to-map-back-to-a-role/)
 - [It’s all squiggles to me. The letterforms we use daily to write… | by Bruno Maag | The Readability Group | Jun, 2021 | Medium](https://medium.com/the-readability-group/its-all-squiggles-to-me-541b326a94a8)
 - [Knowbility – Digital accessibility consulting, training, and advocacy — Knowbility](https://knowbility.org/)
+- [Linux Accessibility: an unmaintained Mess](https://medium.com/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a)
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)

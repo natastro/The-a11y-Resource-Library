@@ -61,6 +61,7 @@
 - [Photosensitive Epilepsy Analysis Tool (PEAT)](https://trace.umd.edu/peat/)
 - [Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
+- [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)

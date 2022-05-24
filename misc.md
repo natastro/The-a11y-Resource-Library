@@ -63,6 +63,7 @@
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
+- [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)

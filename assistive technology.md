@@ -17,6 +17,7 @@
 
 ## Sign Language
 [SLAIT’s real-time sign language translation promises more accessible online communication – TechCrunch](https://techcrunch.com/2021/04/26/slaits-real-time-sign-language-translation-promises-more-accessible-online-communication/)
+[ScreenReader app](https://screenreader.app/)
 
 ## Switch Control
 [Axess Lab |   Assistive Technologies  – The Switch](https://axesslab.com/switches/)

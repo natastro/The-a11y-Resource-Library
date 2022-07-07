@@ -76,6 +76,7 @@
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 - [We need beach access for everyone, and that includes people with a disability (theconversation.com)](https://theconversation.com/we-need-beach-access-for-everyone-and-that-includes-people-with-a-disability-154158?utm_medium=amplinkedin&utm_source=linkedin)
+- [Web Accessibility: An Overview for Businesses and Consultants](https://www.viget.com/articles/web-accessibility-an-overview-for-businesses-and-consultants/)
 - [Web Accessibility for Newbies. Introductory information and advice on… | by Karina Chow | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/web-accessibility-for-newbies-1098fa15f9f0)
 - [WebAIM: Visual Disabilities - Color-blindness](https://webaim.org/articles/visual/colorblind)
 - [WebAIM: Web Accessibility In Mind](https://webaim.org/)

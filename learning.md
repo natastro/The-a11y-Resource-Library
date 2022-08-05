@@ -6,6 +6,7 @@
 - [The A11Y Collective - Web Accessibility Courses and Training](https://www.a11y-collective.com/)
 - [Accessibility - Online Courses, Classes, Training, Tutorials on Lynda](https://www.lynda.com/Accessibility-training-tutorials/1286-0.html)
 - [Accessibility Free Online Courses and MOOCs](https://www.mooc-list.com/tags/accessibility)
+- [Build & Test Accessible Web Apps | Testing Accessibility](https://testingaccessibility.com/)
 - [Deque University: Web Accessibility Training and Courses](https://dequeuniversity.com/)
 - [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)

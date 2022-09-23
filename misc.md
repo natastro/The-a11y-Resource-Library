@@ -66,6 +66,7 @@
 - [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
+- [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)
 - [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)

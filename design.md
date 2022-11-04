@@ -25,6 +25,7 @@
 - [Designing for Web Accessibility in 60 Seconds](https://davidakennedy.com/blog/accessible-design-in-60-seconds/)
 - [Everything You Need to Know About Captioned Videos | Meryl.net home](https://meryl.net/captioned-videos-complete-guide/)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
+- [Five ways to include d/Deaf users in your designs - TPGi](https://www.tpgi.com/five-ways-to-include-d-deaf-users-in-your-designs/)
 - [Foundations: colour and meaning](https://tetralogical.com/blog/2022/02/15/colour-meaning/)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)

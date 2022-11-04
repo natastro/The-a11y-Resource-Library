@@ -21,7 +21,6 @@
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
-- [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
 - [Brief Note on Super- and Subscript text](https://adrianroselli.com/2022/09/brief-note-on-super-and-subscript-text.html)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)

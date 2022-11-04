@@ -11,7 +11,6 @@
 - [Access Guide](https://accessguide.io/d6a894bb4b234af3a5da4d2632338fff?v=465d85d448264d6da49cca67a4b5c442)
 - [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
-- [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)
 - [Accessibility auditing and ego – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/accessibility-auditing-and-ego/)
 - [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)
 - [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)

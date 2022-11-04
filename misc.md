@@ -19,7 +19,6 @@
 - [Accessible Science: Chemistry 101](https://afb.org/aw/23/3/17883?_ga=2.206726672.2083777608.1649096491-1621399304.1639583769)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
-- [Are you sure that’s a number input?](https://kilianvalkhof.com/2022/css-html/are-you-sure-thats-a-number-input/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)

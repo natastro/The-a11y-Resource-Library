@@ -8,6 +8,7 @@
 - [A Designer’s Guide to Documenting Accessibility & User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 - [Accessibility and 2022: 13 Design Trends From a Usability Perspective](https://bhmbizsites.com/accessibility-and-2022-13-design-trends-from-a-usability-perspective/)
 - [Accessibility and font sizes - craigabbott.co.uk](https://www.craigabbott.co.uk/blog/accessibility-and-font-sizes)
+- [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)
 - [Accessibility Annotation Library](https://www.figma.com/community/file/976946194228458698)
 - [Accessible color for design systems just got easier](https://medium.com/@NateBaldwin/accessible-color-for-design-systems-just-got-easier-40e8420a8371)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)

@@ -9,6 +9,7 @@
 - [Accessible Maps](https://www.w3.org/WAI/RD/wiki/Accessible_Maps)
 - [Accessible Maps on the Web | Equal Entry](https://equalentry.com/accessible-maps-on-the-web/)
 - [accessible-slick - the last (accessible) carousel you'll ever need (accessible360.github.io)](https://accessible360.github.io/accessible-slick/)
+- [Are you sure that’s a number input?](https://kilianvalkhof.com/2022/css-html/are-you-sure-thats-a-number-input/)
 - [Axess Lab |   Accessible datepickers](https://axesslab.com/accessible-datepickers/)
 - [Best practices for a chatbot - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/web/components-examples/chatbot/)
 - [Card designs and selectable text](https://intopia.digital/articles/card-designs-and-selectable-text/)

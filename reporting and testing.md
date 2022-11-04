@@ -1,6 +1,7 @@
 # Reporting and Testing
 
 - [16px or Larger Text Prevents iOS Form Zoom | CSS-Tricks](https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/)
+- [24×24 Pixel Cursor Bookmarklet](https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html)
 - [A 4-step process for testing the accessibility of your designs | by Justine Win | Shopify UX](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 - [A11yAutomation](https://a11y-automation.dev/)

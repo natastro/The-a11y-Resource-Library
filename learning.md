@@ -12,6 +12,7 @@
 - [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
+- [Learn Accessibility](https://web.dev/learn/accessibility/)
 - [mgifford/a11y-courses: Courses offered in web accessibility (and other learning opportunities)](https://github.com/mgifford/a11y-courses)
 - [Microsoft Accessibility Features and Tools Module](https://docs.microsoft.com/en-us/learn/modules/accessibility-features/?WT.mc_id=linkedin)
 - [Online Accessibility Courses | UCOP](https://www.ucop.edu/information-technology-services/initiatives/it-accessibility-ucop/online-accessibility-courses.html)

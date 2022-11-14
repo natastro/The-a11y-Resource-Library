@@ -58,6 +58,7 @@
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
 - [Responsive accessibility using visibility hidden](https://www.scottohara.me//blog/2022/11/07/responsive-accessibility.html)
+- [Running usability sessions with assistive technology users: a guide for beginners](https://adhoc.team/2022/11/02/usability-sessions-with-assistive-technology/)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)

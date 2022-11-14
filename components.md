@@ -20,6 +20,7 @@
 - [Demos - Paul J. Adam - Web & Mobile Accessibility Consultant in Austin, TX](https://pauljadam.com/demos.html)
 - [Design Patterns and Widgets | WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
 - [Designing Toast Messages for Accessibility | by Sheri Byrne-Haber, CPACC | Medium](https://sheribyrnehaber.medium.com/designing-toast-messages-for-accessibility-fb610ac364be)
+- [Dialogs, modality and popovers seem similar. How are they different?](https://hidde.blog/dialog-modal-popover-differences/)
 - [Disable HTML elements - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/articles/disable-elements/)
 - [Divs are bad!](https://www.matuzo.at/blog/2022/divs-are-bad/)
 - [Esri Accessibility | Software Accessibility for ArcGIS Products](https://www.esri.com/en-us/accessibility/overview)

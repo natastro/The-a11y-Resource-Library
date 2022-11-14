@@ -35,3 +35,4 @@
 - [WCAG-EM-Report-Tool](https://www.w3.org/WAI/eval/report-tool/)
 - [wcagify  -  npm](https://www.npmjs.com/package/wcagify)
 - [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Why you need to monitor and report on accessibility—all the time](https://www.deque.com/blog/why-you-need-to-monitor-and-report-on-accessibility-all-the-time/)

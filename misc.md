@@ -56,6 +56,7 @@
 - [Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
+- [Responsive accessibility using visibility hidden](https://www.scottohara.me//blog/2022/11/07/responsive-accessibility.html)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)

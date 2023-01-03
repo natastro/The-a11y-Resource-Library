@@ -4,6 +4,7 @@
 - [accessibilityViewIsModal | Apple Developer Documentation](https://developer.apple.com/documentation/objectivec/nsobject/1615089-accessibilityviewismodal)
 - [Action sheets - Presentation - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/presentation/action-sheets/)
 - [All components - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
+- [Android Accessibility: A Developers Guide](https://dev.to/steady5063/android-accessibility-a-developers-guide-1n0m)
 - [Android Accessibility: Labels and Hints](https://qbalsdon.github.io/android,/labels,/hints,/accessibility,/robust/2022/07/20/labels-and-hints.html)
 - [Android develop - General navigation](https://a11y-guidelines.orange.com/en/mobile/android/development/general-navigation/)
 - [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.amazon.com/Developing-Inclusive-Mobile-Apps-Accessible-ebook-dp-B087TFBR6Y/dp/B087TFBR6Y/ref=mt_other?_encoding=UTF8&me=&qid=1662043597)

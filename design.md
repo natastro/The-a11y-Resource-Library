@@ -31,6 +31,7 @@
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)
+- [Neurodiversity Design System](https://www.neurodiversity.design/)
 - [Quick tip: Reviewing a design for accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-08-14-reviewing-a-design-for-accessibility/)
 - [Resources for Designing for the Colorblind - We are Colorblind](https://wearecolorblind.com/resources/collection/resources-for-designing-for-the-colorblind/)
 - [Scroll to top: Does it need to be accessible? - DigitalA11Y](https://www.digitala11y.com/scroll-to-top-does-it-need-to-be-accessible/)

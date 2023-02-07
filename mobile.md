@@ -10,6 +10,7 @@
 - [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.amazon.com/Developing-Inclusive-Mobile-Apps-Accessible-ebook-dp-B087TFBR6Y/dp/B087TFBR6Y/ref=mt_other?_encoding=UTF8&me=&qid=1662043597)
 - [Getting started with macOS VoiceOver](https://www.a11yproject.com/posts/getting-started-with-voiceover/)
 - [Getting started with VoiceOver on iOS](https://www.a11yproject.com/posts/getting-started-with-voiceover-ios/)
+- [Hidden Accessibility Gems](https://convergeaccessibility.com/2023/01/09/hidden-accessibility-gems/)
 - [How to Fix Common iOS Accessibility Issues](https://www.deque.com/blog/how-to-fix-common-ios-accessibility-issues/)
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing/)
 - [Improving accessibility for iOS apps with VoiceOver — Part 1](https://medium.com/snowdog-labs/accessibility-for-ios-apps-bf553889304b)

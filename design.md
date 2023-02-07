@@ -3,6 +3,7 @@
 - [5 tips on designing colorblind-friendly visualizations](https://www.tableau.com/about/blog/examining-data-viz-rules-dont-use-red-green-together)
 - [10 Guidelines for DataViz Accessibility - Highcharts](https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/)
 - [84 cognitive biases that will help you design better-converting products (mobilespoon.net)](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
+- [2023 design trends from an accessibility perspective](https://accessicart.com/2023-design-trends-from-an-accessibility-perspective/)
 - [A beginner’s guide to inclusive UX design](https://uxdesign.cc/a-beginners-guide-to-inclusive-ux-design-b8dcc94f5068)
 - [A Comprehensive Guide to Accessible Data Visualization](https://www.betterment.com/design/accessible-data-visualization)
 - [A Designer’s Guide to Documenting Accessibility & User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)

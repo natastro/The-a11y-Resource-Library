@@ -13,6 +13,7 @@
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
 - [ButtonBuddy - Accessible button contrast generator](https://buttonbuddy.dev/)
+- [Carry On Testing 2023](https://www.tpgi.com/carry-on-testing-2023/)
 - [ChromeLens Chrome Extension](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd)
 - [Coblis — Color Blindness Simulator - Colblindor](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))

@@ -2,6 +2,7 @@
 
 - [Accessibility modifiers | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/view-accessibility)
 - [accessibilityViewIsModal | Apple Developer Documentation](https://developer.apple.com/documentation/objectivec/nsobject/1615089-accessibilityviewismodal)
+- [Accessible Mobile Apps Weekly](https://accessible-mobile-apps-weekly.ghost.io/)
 - [Action sheets - Presentation - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/presentation/action-sheets/)
 - [All components - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
 - [Android Accessibility: A Developers Guide](https://dev.to/steady5063/android-accessibility-a-developers-guide-1n0m)

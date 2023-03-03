@@ -9,3 +9,4 @@
 - [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 - [The business case for accessibility](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/)
 - [The Role of Policy in Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-accessibility-policy/)
+- [Understanding the cost of not being accessible](https://karlgroves.com/understanding-the-cost-of-not-being-accessible/)

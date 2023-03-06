@@ -29,6 +29,7 @@
 - [Open Accessibility Standards](https://pauljadam.github.io/a11y-standards/)
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
+- [Screen reader, keyboard, and zoom testing](https://blog.pope.tech/2023/03/01/march-accessibility-focus-keyboard-and-screen-reader-testing/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
 - [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
 - [Triaging WCAG 2.1 Level AAA](https://tetralogical.com/blog/2022/05/20/triaging-wcag-level-aaa/)

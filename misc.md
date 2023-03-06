@@ -50,6 +50,7 @@
 - [It’s all squiggles to me. The letterforms we use daily to write… | by Bruno Maag | The Readability Group | Jun, 2021 | Medium](https://medium.com/the-readability-group/its-all-squiggles-to-me-541b326a94a8)
 - [Knowbility – Digital accessibility consulting, training, and advocacy — Knowbility](https://knowbility.org/)
 - [Lē Silveus McNamara talks about neurodivergence, color choices, and overstimulation](https://a11yrules.com/podcast/le-silveus-mcnamara-talks-about-neurodivergence-color-choices-and-overstimulation/)
+- [LEGAL UPDATE: FEBRUARY 2023](https://convergeaccessibility.com/2023/03/01/legal-update-february-2023/)
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
 - [Linux Accessibility: an unmaintained Mess](https://medium.com/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a)

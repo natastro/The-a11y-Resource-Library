@@ -46,6 +46,7 @@
 - [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
 - [HTML semantics](https://gomakethings.com/html-semantics/)
 - [Inclusive XR: accessible 3D experiences](https://tetralogical.com/blog/2023/01/20/inclusive-xr-accessible-3d-experiences/)
+- [Innovation without barriers](https://github.com/readme/podcast/accessible-software-development)
 - [Introducing inert](https://developer.chrome.com/blog/inert/)
 - [It needs to map back to a role](https://ericwbailey.design/writing/it-needs-to-map-back-to-a-role/)
 - [It’s all squiggles to me. The letterforms we use daily to write… | by Bruno Maag | The Readability Group | Jun, 2021 | Medium](https://medium.com/the-readability-group/its-all-squiggles-to-me-541b326a94a8)

@@ -41,6 +41,7 @@
 - [Progressive Enhancement and HTML Forms: use FormData](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)
 - [Simplifying Form Styles With accent-color — Smashing Magazine](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 - [States | Material Design](https://material.io/design/interaction/states.html#usage)
+- [The H1 Conundrum: Understanding the Challenges of Heading Level One](https://www.digitala11y.com/the-h1-conundrum-understanding-the-challenges-of-heading-level-one/)
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
 - [Turning the tables on accessibility](https://www.theguardian.com/info/2022/feb/22/turning-the-tables-on-accessibility)
 - [Use the dialog element (reasonably)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)

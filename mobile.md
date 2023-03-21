@@ -9,6 +9,7 @@
 - [Android Accessibility: Labels and Hints](https://qbalsdon.github.io/android,/labels,/hints,/accessibility,/robust/2022/07/20/labels-and-hints.html)
 - [Android develop - General navigation](https://a11y-guidelines.orange.com/en/mobile/android/development/general-navigation/)
 - [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.amazon.com/Developing-Inclusive-Mobile-Apps-Accessible-ebook-dp-B087TFBR6Y/dp/B087TFBR6Y/ref=mt_other?_encoding=UTF8&me=&qid=1662043597)
+- [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [Getting started with macOS VoiceOver](https://www.a11yproject.com/posts/getting-started-with-voiceover/)
 - [Getting started with VoiceOver on iOS](https://www.a11yproject.com/posts/getting-started-with-voiceover-ios/)
 - [Hidden Accessibility Gems](https://convergeaccessibility.com/2023/01/09/hidden-accessibility-gems/)

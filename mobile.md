@@ -8,6 +8,7 @@
 - [Android Accessibility: A Developers Guide](https://dev.to/steady5063/android-accessibility-a-developers-guide-1n0m)
 - [Android Accessibility: Labels and Hints](https://qbalsdon.github.io/android,/labels,/hints,/accessibility,/robust/2022/07/20/labels-and-hints.html)
 - [Android develop - General navigation](https://a11y-guidelines.orange.com/en/mobile/android/development/general-navigation/)
+- [Android Headings](https://qbalsdon.github.io/accessibility,/testing,/unit/tests,/heading/2023/03/13/accessibility-headings.html)
 - [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.amazon.com/Developing-Inclusive-Mobile-Apps-Accessible-ebook-dp-B087TFBR6Y/dp/B087TFBR6Y/ref=mt_other?_encoding=UTF8&me=&qid=1662043597)
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [Getting started with macOS VoiceOver](https://www.a11yproject.com/posts/getting-started-with-voiceover/)

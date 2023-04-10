@@ -18,6 +18,7 @@
 - [ChromeLens Chrome Extension](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd)
 - [Coblis — Color Blindness Simulator - Colblindor](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))
+- [Exposing Field Errors](https://adrianroselli.com/2023/04/exposing-field-errors.html)
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)

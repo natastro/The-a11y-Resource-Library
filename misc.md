@@ -3,6 +3,7 @@
 - [#A11y Rules Podcast - Conversations around web accessibility](https://a11yrules.com/)
 - [#FACILiti Will Get You Sued](https://adrianroselli.com/2022/03/faciliti-will-get-you-sued.html)
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
+- [50.1% empty links](https://www.matuzo.at/blog/2023/empty-links/)
 - [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)

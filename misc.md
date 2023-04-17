@@ -38,6 +38,7 @@
 - [Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX](https://www.smashingmagazine.com/2023/01/closed-captions-subtitles-ux/)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
+- [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
 - [Download the Atkinson Hyperlegible Font | Braille Institute](https://brailleinstitute.org/freefont?ref=sidebar)
 - [Foundations: accessible names and descriptions](https://tetralogical.com/blog/2023/04/05/accessible-names-and-descriptions/)
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)

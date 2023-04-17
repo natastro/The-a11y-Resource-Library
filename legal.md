@@ -2,6 +2,7 @@
 
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
+- [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)
 - [Justice Department Issues Web Accessibility Guidance Under the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
 - [Law Office of Lainey Feingold – Structured Negotiation | Disability Rights](https://www.lflegal.com/)

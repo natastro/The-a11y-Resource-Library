@@ -91,6 +91,7 @@
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Tips for Accessible Screen Sharing](https://webaim.org/blog/tips-for-accessible-screen-sharing)
+- [Ubisoft proves the most important trend in video games didn’t happen overnight](https://www.inverse.com/gaming/ubisoft-accessibility-david-tisserand-interview)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)

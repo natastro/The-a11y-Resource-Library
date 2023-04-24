@@ -26,6 +26,7 @@
 
 ## VoiceOver
 [How to start testing screen reader support using VoiceOver – Yakim](https://yakim.nl/articles/voiceover-testing/)
+[VoiceOver’s Trackpad Commander on Mac](https://www.tempertemper.net/blog/voiceovers-trackpad-commander-on-mac)
 
 ## Other
 [Accessibility Technology & Tools](https://www.microsoft.com/en-us/accessibility)

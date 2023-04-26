@@ -9,4 +9,4 @@
 - [Miscellaneous](https://github.com/natastro/a11y/blob/master/misc.md)
 - [Mobile Accessibility](https://github.com/natastro/a11y/blob/main/mobile.md)
 - [Reporting and Testing](https://github.com/natastro/a11y/blob/master/reporting%20and%20testing.md)
-- [Workplace Accommodations](https://github.com/natastro/a11y/blob/master/workplace%20accommodations.md)
+- [Workplace Accessibility](https://github.com/natastro/a11y/blob/main/workplace%20accessibility.md)

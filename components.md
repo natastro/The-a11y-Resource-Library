@@ -30,6 +30,7 @@
 - [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)
 - [Foundations: lists](https://tetralogical.com/blog/2022/04/29/lists/)
 - [Foundations: native versus custom components](https://tetralogical.com/blog/2022/11/08/foundations-native-versus-custom-components/)
+- [How to style links that don't look ugly](https://gomakethings.com/how-to-style-links-that-dont-look-ugly/)
 - [Ikonate – fully customisable & accessible vector icons](https://ikonate.com/)
 - [Inclusive datepicker | Tommy Feldt](https://fymmot.github.io/inclusive-dates/)
 - [Maps | Accessibility Guidelines](http://web-accessibility.carnegiemuseums.org/content/maps/)

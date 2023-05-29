@@ -34,6 +34,7 @@
 - [Five ways to include d/Deaf users in your designs - TPGi](https://www.tpgi.com/five-ways-to-include-d-deaf-users-in-your-designs/)
 - [Focus Appearance thoughts](https://alastairc.uk/2023/02/focus-appearance-thoughts/)
 - [Foundations: colour and meaning](https://tetralogical.com/blog/2022/02/15/colour-meaning/)
+- [High-contrast — when you think dark mode is enough](https://uxdesign.cc/high-contrast-when-you-think-the-dark-mode-is-enough-d190218d4bba)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)

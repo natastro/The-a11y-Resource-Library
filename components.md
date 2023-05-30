@@ -14,6 +14,7 @@
 - [Are you sure that’s a number input?](https://kilianvalkhof.com/2022/css-html/are-you-sure-thats-a-number-input/)
 - [Axess Lab |   Accessible datepickers](https://axesslab.com/accessible-datepickers/)
 - [Best practices for a chatbot - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/web/components-examples/chatbot/)
+- [Brief Note on Popovers with Dialogs](https://adrianroselli.com/2023/05/brief-note-on-popovers-with-dialogs.html)
 - [Card designs and selectable text](https://intopia.digital/articles/card-designs-and-selectable-text/)
 - [Carousels: No one likes you](https://jhalabi.com/blog/carousels-no-one-likes-you)
 - [CSS { In Real Life } | Accessible Toggles](https://css-irl.info/accessible-toggles/)

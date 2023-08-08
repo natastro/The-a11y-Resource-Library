@@ -18,6 +18,7 @@
 - [Getting VoiceOver to shut up](https://www.tempertemper.net/blog/getting-voiceover-to-shut-up)
 - [Hidden Accessibility Gems](https://convergeaccessibility.com/2023/01/09/hidden-accessibility-gems/)
 - [How to Fix Common iOS Accessibility Issues](https://www.deque.com/blog/how-to-fix-common-ios-accessibility-issues/)
+- [How to Provide Accessibility in Your Native Android App with Jetpack Compose | Part 1](https://www.thedroidsonroids.com/blog/mobile-app-accessibility-android-guide)
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing/)
 - [Improving accessibility for iOS apps with VoiceOver — Part 1](https://medium.com/snowdog-labs/accessibility-for-ios-apps-bf553889304b)
 - [iOS Accessibility Properties: How They Relate to WCAG, and How to Correctly Use Them](https://www.24a11y.com/2018/ios-accessibility-properties/)

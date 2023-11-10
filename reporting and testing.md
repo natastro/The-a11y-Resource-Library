@@ -2,6 +2,7 @@
 
 - [16px or Larger Text Prevents iOS Form Zoom | CSS-Tricks](https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/)
 - [24×24 Pixel Cursor Bookmarklet](https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html)
+- [50.1% empty links](https://www.matuzo.at/blog/2023/empty-links/)
 - [A 4-step process for testing the accessibility of your designs | by Justine Win | Shopify UX](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 - [A beginner’s guide to manual accessibility testing](https://blog.pope.tech/2023/03/01/a-beginners-guide-to-manual-accessibility-testing/)
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)

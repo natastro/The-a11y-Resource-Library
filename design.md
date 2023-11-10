@@ -18,6 +18,7 @@
 - [Adaptive SVGs for Accessibility, Responsiveness and More (with Heather S. Neff) | Some Antics](https://www.youtube.com/watch?v=CiNdH-iVFUs)
 - [Adding A Dyslexia-Friendly Mode To A Website — Smashing Magazine](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)
 - [An intro to designing accessible data visualizations by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
+- [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 - [Cognitive Accessibility Design Patterns](https://www.w3.org/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)

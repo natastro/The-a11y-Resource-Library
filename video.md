@@ -1,1 +1,2 @@
 - [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
+- [Adding sign language to videos](https://tetralogical.com/blog/2023/03/07/adding-sign-language-to-video/)

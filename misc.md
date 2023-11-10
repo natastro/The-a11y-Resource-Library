@@ -20,7 +20,6 @@
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
-- [Automatic Captions: Our Experiments and Best Practices](https://equalentry.com/automatic-captions-experiments-best-practices/)
 - [Brief Note on Super- and Subscript text](https://adrianroselli.com/2022/09/brief-note-on-super-and-subscript-text.html)
 - [Building an accessible theme picker with HTML, CSS and JavaScript.](https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)

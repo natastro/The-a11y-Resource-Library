@@ -30,6 +30,7 @@
 - [Designing and Coding for Voice](https://www.briandeconinck.com/designing-coding-voice/)
 - [Designing for Reduced Motion](https://craftcms.com/blog/designing-for-reduced-motion)
 - [Designing for Web Accessibility in 60 Seconds](https://davidakennedy.com/blog/accessible-design-in-60-seconds/)
+- [Download the Atkinson Hyperlegible Font | Braille Institute](https://brailleinstitute.org/freefont?ref=sidebar)
 - [Everything You Need to Know About Captioned Videos | Meryl.net home](https://meryl.net/captioned-videos-complete-guide/)
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
 - [Five ways to include d/Deaf users in your designs - TPGi](https://www.tpgi.com/five-ways-to-include-d-deaf-users-in-your-designs/)

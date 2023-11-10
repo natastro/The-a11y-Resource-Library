@@ -77,7 +77,6 @@
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
-- [This Software Lets You Play Minecraft with Your Eyes | Beebom](https://beebom.com/software-lets-disabled-gamers-play-minecraft-with-eyes/)
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Tips for Accessible Screen Sharing](https://webaim.org/blog/tips-for-accessible-screen-sharing)

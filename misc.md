@@ -34,7 +34,6 @@
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
-- [How Indie Studios Are Pioneering Accessible Game Design](https://www.wired.com/story/indie-studios-accessible-game-design-tunic-coromon/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How To Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)

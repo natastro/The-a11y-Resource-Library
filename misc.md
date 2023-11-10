@@ -2,7 +2,6 @@
 
 - [#A11y Rules Podcast - Conversations around web accessibility](https://a11yrules.com/)
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
-- [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
@@ -14,7 +13,6 @@
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [Accessible Science: Chemistry 101](https://afb.org/aw/23/3/17883?_ga=2.206726672.2083777608.1649096491-1621399304.1639583769)
-- [Adding sign language to videos](https://tetralogical.com/blog/2023/03/07/adding-sign-language-to-video/)
 - [Allied Podcast: Making Data Visualization Accessible with Tori Clark](https://www.3playmedia.com/alliedpodcast/making-data-visualization-accessible-with-tori-clark/)
 - [Alternative text in the wild: 5 alternative text examples](https://blog.pope.tech/2023/03/31/alternative-text-in-the-wild-5-alternative-text-examples/)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)

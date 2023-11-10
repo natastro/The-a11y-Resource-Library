@@ -8,7 +8,6 @@
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Access Guide](https://www.accessguide.io/)
-- [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility auditing and ego – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/accessibility-auditing-and-ego/)
 - [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)

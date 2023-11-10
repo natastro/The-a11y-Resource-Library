@@ -25,7 +25,6 @@
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
-- [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 - [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [DeafBlind communities may be creating a new language of touch ](https://www.newyorker.com/culture/annals-of-inquiry/deafblind-communities-may-be-creating-a-new-language-of-touch)
 - [Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX](https://www.smashingmagazine.com/2023/01/closed-captions-subtitles-ux/)

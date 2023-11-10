@@ -1,6 +1,5 @@
 # Miscellaneous
 
-- [#A11y Rules Podcast - Conversations around web accessibility](https://a11yrules.com/)
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
@@ -93,5 +92,6 @@
 - [What we learned about accessibility by scanning more than 2 million federal .gov web pages -- FCW](https://fcw.com/articles/2021/07/22/fed-website-accessibility.aspx)
 - [Why ‘dark mode’ causes more accessibility issues than it solves | by H Locke | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/why-dark-mode-causes-more-accessibility-issues-than-it-solves-d2f8359bb46a)
 - [Why You Need To Do User Testing With Deaf And Hard Of Hearing People | Fable](https://makeitfable.com/article/user-testing-deaf-hoh/)
+- [#A11y Rules Podcast - Conversations around web accessibility](https://a11yrules.com/)
 - [#A11yBy](https://a11yby.com)
 - [#CriticalAxis: a community driven project from The Disabled List](https://www.criticalaxis.org/)

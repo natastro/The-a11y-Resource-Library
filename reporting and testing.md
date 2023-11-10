@@ -8,6 +8,7 @@
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 - [A11yAutomation](https://a11y-automation.dev/)
 - [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)
+- [Accessibility auditing and ego – Eric Bailey (ericwbailey.design)](https://ericwbailey.website/published/accessibility-auditing-and-ego/)
 - [Accessibility Bookmarklets (accessibility-bookmarklets.org)](https://accessibility-bookmarklets.org/install.html)
 - [Accessibility monitoring: How we test](https://www.gov.uk/guidance/accessibility-monitoring-how-we-test)
 - [Accessibility Support](https://a11ysupport.io/)

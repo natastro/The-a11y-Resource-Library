@@ -7,6 +7,7 @@
 - [A beginner’s guide to manual accessibility testing](https://blog.pope.tech/2023/03/01/a-beginners-guide-to-manual-accessibility-testing/)
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 - [A11yAutomation](https://a11y-automation.dev/)
+- [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)
 - [Accessibility Bookmarklets (accessibility-bookmarklets.org)](https://accessibility-bookmarklets.org/install.html)
 - [Accessibility monitoring: How we test](https://www.gov.uk/guidance/accessibility-monitoring-how-we-test)
 - [Accessibility Support](https://a11ysupport.io/)

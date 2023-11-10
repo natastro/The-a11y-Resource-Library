@@ -9,7 +9,6 @@
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Access Guide](https://www.accessguide.io/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
-- [Accessibility auditing and ego – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/accessibility-auditing-and-ego/)
 - [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)
 - [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)

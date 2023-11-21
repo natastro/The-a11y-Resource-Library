@@ -48,6 +48,7 @@
 - [Let’s talk about the elephant in the room: invisible disabilities - Accessibility in government](https://accessibility.blog.gov.uk/2021/07/05/lets-talk-about-the-elephant-in-the-room-invisible-disabilities/)
 - [Library: Accessibility resources, guides, communities, and more (getstark.co)](https://www.getstark.co/library/)
 - [Linux Accessibility: an unmaintained Mess](https://medium.com/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a)
+- [Lost in Translation: Tips for Multilingual Web Accessibility](https://benmyers.dev/blog/multilingual-web-accessibility/)
 - [Make-It-Accessible](https://www.make-it-accessible.com/)
 - [Making Accessibility a Habit](https://tri.be/blog/making-accessibility-a-habit/)
 - [Making Events Accessible: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)

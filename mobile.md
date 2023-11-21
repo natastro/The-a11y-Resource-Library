@@ -22,6 +22,7 @@
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing/)
 - [Improving accessibility for iOS apps with VoiceOver — Part 1](https://medium.com/snowdog-labs/accessibility-for-ios-apps-bf553889304b)
 - [iOS Accessibility Properties: How They Relate to WCAG, and How to Correctly Use Them](https://www.24a11y.com/2018/ios-accessibility-properties/)
+- [iOS Accessibility Test Plan](https://moba11y.com/blog/ios-accessibility-test-plan/)
 - [iOS Accessibility Tutorial: Making Custom Controls Accessible](https://www.kodeco.com/4720178-ios-accessibility-tutorial-making-custom-controls-accessible)
 - [iOS developer guide](https://a11y-guidelines.orange.com/en/mobile/ios/development/)
 - [Localization - Apple Developer](https://developer.apple.com/localization/)

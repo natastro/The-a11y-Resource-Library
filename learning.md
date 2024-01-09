@@ -1,6 +1,5 @@
 # Learning
 
-- [#FACILiti Will Get You Sued](https://adrianroselli.com/2022/03/faciliti-will-get-you-sued.html)
 - [a11yphant](https://a11yphant.com/)
 - ['Accessibility' search results | Treehouse](https://teamtreehouse.com/library/q:accessibility)
 - ['Accessibility' search results | egghead.io](https://egghead.io/search?query=accessibility)

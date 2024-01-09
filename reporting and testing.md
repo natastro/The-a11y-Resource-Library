@@ -39,6 +39,7 @@
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)
 - [React Testing Library & Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Reading a Voluntary Product Accessibility Template (VPAT) or Accessibility Conformance Report (ACR)](https://equalentry.com/reading-vpat-voluntary-product-accessibility-template/)
+- [Reflow Red Flags](https://www.tpgi.com/reflow-red-flags/)
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
 - [Screen reader, keyboard, and zoom testing](https://blog.pope.tech/2023/03/01/march-accessibility-focus-keyboard-and-screen-reader-testing/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)

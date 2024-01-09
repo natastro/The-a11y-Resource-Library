@@ -36,6 +36,7 @@
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
+- [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
 - [How To Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)
 - [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)

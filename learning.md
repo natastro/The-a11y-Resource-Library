@@ -9,6 +9,7 @@
 - [All of Learn Accessibility! is available](https://web.dev/learn-accessibility-available/)
 - [Build & Test Accessible Web Apps | Testing Accessibility](https://testingaccessibility.com/)
 - [Course List - Digital Accessibility Education, Training, and Certification](https://www.w3.org/WAI/courses/list/)
+- [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
 - [Deque University: Web Accessibility Training and Courses](https://dequeuniversity.com/)
 - [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)

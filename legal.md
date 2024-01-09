@@ -1,6 +1,7 @@
 # Legal
 
 - [#FACILiti Will Get You Sued](https://adrianroselli.com/2022/03/faciliti-will-get-you-sued.html)
+- [#UserWay Will Get You Sued](https://adrianroselli.com/2021/09/userway-will-get-you-sued.html#LevelAccessBuysUserWay)
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)

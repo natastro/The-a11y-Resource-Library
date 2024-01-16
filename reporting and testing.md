@@ -35,6 +35,7 @@
 - [Introducing: an Eleventy starter project for WCAG reports (hiddedevries.nl)](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports)
 - [Introduction to Cognitive Disability and Accessibility Testing - TPGi](https://www.tpgi.com/introduction-to-cognitive-disability-and-accessibility-testing/)
 - [Mobile Screen Reader Testing – Scott Vinkle](https://scottvinkle.me/blogs/work/mobile-screen-reader-testing)
+- [Money Talks! Formatting Currency in Web Content](https://www.tpgi.com/money-talks-formatting-currency-in-web-content/)
 - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 - [Open Accessibility Standards](https://pauljadam.github.io/a11y-standards/)
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)

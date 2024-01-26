@@ -28,6 +28,7 @@
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Design system breakdown: checkbox & radio](https://uxdesign.cc/design-system-breakdown-checkbox-radio-7d8a389b0e85)
 - [Designing and Coding for Voice](https://www.briandeconinck.com/designing-coding-voice/)
+- [Designing better target sizes](https://ishadeed.com/article/target-size/)
 - [Designing for Reduced Motion](https://craftcms.com/blog/designing-for-reduced-motion)
 - [Designing for Web Accessibility in 60 Seconds](https://davidakennedy.com/blog/accessible-design-in-60-seconds/)
 - [Download the Atkinson Hyperlegible Font | Braille Institute](https://brailleinstitute.org/freefont?ref=sidebar)

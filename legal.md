@@ -25,3 +25,4 @@
 - [VPAT Primer: What is a VPAT? | Digital Accessibility Digest (microassist.com)](https://www.microassist.com/digital-accessibility/vpat/)
 - [Website Accessibility under Title III of the Americans with Disabilities Act](https://www.natlawreview.com/article/navigating-website-accessibility-under-title-iii-americans-disabilities-act)
 - [Websites Not Bound by ADA Accessibility Rules, 11th Circuit Finds | Courthouse News Service](https://www.courthousenews.com/websites-not-bound-by-ada-accessibility-rules-11th-circuit-finds/)
+- [What Is the California Assembly Bill on Website Accessibility?](https://equalentry.com/website-accessibility-california-assembly-bill/)

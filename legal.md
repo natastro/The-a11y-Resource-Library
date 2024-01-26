@@ -18,6 +18,7 @@
 - [March 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/04/03/legal-update-march-2023/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)
 - [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
+- [Takeaways from Lainey Feingold’s 2023 Digital Accessibility Legal Update](https://www.3playmedia.com/blog/lainey-feingolds-annual-digital-accessibility-legal-update/)
 - [The DOJ’s New Guidance Says Website Accessibility is an Enforcement Priority but Provides No New Legal Insights](https://www.adatitleiii.com/2022/03/the-dojs-new-guidance-says-website-accessibility-is-an-enforcement-priority-but-provides-no-new-legal-insights/)
 - [The Law on Website and Mobile Accessibility Continues to Grow at a Glacial Pace Even as Lawsuit Numbers Reach All-Time Highs](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/jf22/vu-launey-egan/)
 - [U.S. Federal Appeals Court Slams Unethical ADA Practice - Law Office of Lainey Feingold](https://www.lflegal.com/2021/08/eleventh-circuit-ethics/)

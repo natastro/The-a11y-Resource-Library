@@ -84,6 +84,7 @@
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
+- [Using AI for Accessibility: Breaking Down Barriers in Content Creation?! — Moritz Gießmann, UX Engineer and Accessibility Expert from Karlsruhe, Germany.](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 - [We are Colorblind](https://wearecolorblind.com/)
 - [We need beach access for everyone, and that includes people with a disability (theconversation.com)](https://theconversation.com/we-need-beach-access-for-everyone-and-that-includes-people-with-a-disability-154158?utm_medium=amplinkedin&utm_source=linkedin)

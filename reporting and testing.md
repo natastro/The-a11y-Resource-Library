@@ -16,6 +16,7 @@
 - [Accessibility: A new standard test](https://www.linkedin.com/pulse/accessibility-new-standard-test-steven-mason/)
 - [Accessible Colors | WCAG 2.0 AA and AAA color contrast checker (accessible-colors.com)](https://accessible-colors.com/)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
+- [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
 - [ButtonBuddy - Accessible button contrast generator](https://buttonbuddy.dev/)
 - [Buttons and Links - common misconceptions](https://accessbydesign.uk/buttons-and-links-common-misconceptions/)

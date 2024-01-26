@@ -23,6 +23,8 @@
 - [Coblis — Color Blindness Simulator - Colblindor](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))
 - [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/)
+- [Decoding WCAG 1.4.11 Non-text Contrast – Part 1](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast/)
+- [Decoding WCAG 1.4.11 Non-text Contrast – Part 2 ](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast-part-2/)
 - [Exposing Field Errors](https://adrianroselli.com/2023/04/exposing-field-errors.html)
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)

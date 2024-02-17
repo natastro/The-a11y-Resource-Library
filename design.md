@@ -27,6 +27,7 @@
 - [Creating A High-Contrast Design System With CSS Custom Properties](https://www.smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Design system breakdown: checkbox & radio](https://uxdesign.cc/design-system-breakdown-checkbox-radio-7d8a389b0e85)
+- [Designing Accessible Color Palettes in Figma: A Guide for Web Accessibility](https://knowbility.org/blog/2024/designing-accessible-color-palettes-in-figma-2024)
 - [Designing and Coding for Voice](https://www.briandeconinck.com/designing-coding-voice/)
 - [Designing better target sizes](https://ishadeed.com/article/target-size/)
 - [Designing for Reduced Motion](https://craftcms.com/blog/designing-for-reduced-motion)

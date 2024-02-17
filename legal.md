@@ -29,3 +29,4 @@
 - [Websites Not Bound by ADA Accessibility Rules, 11th Circuit Finds | Courthouse News Service](https://www.courthousenews.com/websites-not-bound-by-ada-accessibility-rules-11th-circuit-finds/)
 - [What every leader must know about 2023’s accessibility lawsuits](https://inklusiv.ca/what-every-leader-must-know-about-2023s-accessibility-lawsuits/)
 - [What Is the California Assembly Bill on Website Accessibility?](https://equalentry.com/website-accessibility-california-assembly-bill/)
+- [White House is ‘doubling down’ on accessibility when it comes to digital experiences](https://fedscoop.com/white-house-omb-guidance-digital-first-experiences-website-accessibility/)

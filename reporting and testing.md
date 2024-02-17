@@ -30,6 +30,7 @@
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 2 ](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast-part-2/)
 - [Dynamic accessible descriptions reference](https://www.darins.page/articles/dynamic-accessible-descriptions-reference)
 - [Exposing Field Errors](https://adrianroselli.com/2023/04/exposing-field-errors.html)
+- [First Public Working Draft: Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://www.w3.org/news/2024/first-public-working-draft-accessible-rich-internet-applications-wai-aria-1-3/)
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)

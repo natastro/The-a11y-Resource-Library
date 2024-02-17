@@ -10,6 +10,7 @@
 - [Government not meeting minimum accessibility standards on federal websites, GSA report finds](https://fedscoop.com/government-accessibility-standards-websites-gsa-report/)
 - [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)
+- [January 2024 Accessibility Legal Update](https://convergeaccessibility.com/2024/01/29/legal-update-january-2024/)
 - [Justice Department Issues Web Accessibility Guidance Under the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
 - [Law Office of Lainey Feingold – Structured Negotiation | Disability Rights](https://www.lflegal.com/)
 - [Lawsuits Over Digital Accessibility for People With Disabilities Are Rising - WSJ](https://www.wsj.com/articles/lawsuits-over-digital-accessibility-for-people-with-disabilities-are-rising-11626369056)

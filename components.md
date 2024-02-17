@@ -36,6 +36,7 @@
 - [Foundations: native versus custom components](https://tetralogical.com/blog/2022/11/08/foundations-native-versus-custom-components/)
 - [How to style links that don't look ugly](https://gomakethings.com/how-to-style-links-that-dont-look-ugly/)
 - [Ikonate – fully customisable & accessible vector icons](https://ikonate.com/)
+- [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 - [Inclusive datepicker | Tommy Feldt](https://fymmot.github.io/inclusive-dates/)
 - [Maps | Accessibility Guidelines](http://web-accessibility.carnegiemuseums.org/content/maps/)
 - [Multi-Column Sortable Table Experiment | Adrian Roselli](https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html)

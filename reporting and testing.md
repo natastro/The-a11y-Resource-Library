@@ -38,6 +38,8 @@
 - [How to test for low vision and improve the A11y user experience](https://www.linkedin.com/pulse/how-test-low-vision-improve-a11y-user-experience-mar%C3%ADa-jos%C3%A9/)
 - [How to use the accessibility tree for a11y testing](https://giovanicamara.com/blog/how-to-use-the-accessibility-tree-for-a11y-testing/)
 - [HTML test cases](https://russmaxdesign.github.io/accessible-forms/)
+- [Inspecting WCAG 2.2: Accessible authentication](https://www.youtube.com/watch?v=9h5aLCS3wJQ)
+- [Inspecting WCAG 2.2: Target size](https://www.youtube.com/watch?v=91O_DzoLM3U)
 - [International Association of Accessibility Professionals: IAAP](https://www.accessibilityassociation.org/)
 - [Introducing: an Eleventy starter project for WCAG reports (hiddedevries.nl)](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports)
 - [Introduction to Cognitive Disability and Accessibility Testing - TPGi](https://www.tpgi.com/introduction-to-cognitive-disability-and-accessibility-testing/)

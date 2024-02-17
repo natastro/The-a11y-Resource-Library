@@ -29,6 +29,7 @@
 - [Dialogs, modality and popovers seem similar. How are they different?](https://hidde.blog/dialog-modal-popover-differences/)
 - [Disable HTML elements - Orange digital accessibility guidelines](https://a11y-guidelines.orange.com/en/articles/disable-elements/)
 - [Divs are bad!](https://www.matuzo.at/blog/2022/divs-are-bad/)
+- [Doing what’s required: Indicating mandatory fields in an accessible way](https://www.tpgi.com/doing-whats-required-indicating-mandatory-fields-in-an-accessible-way/)
 - [Esri Accessibility | Software Accessibility for ArcGIS Products](https://www.esri.com/en-us/accessibility/overview)
 - [Focus state ideas by Kelsey Cavitt on Dribbble](https://dribbble.com/shots/12592251-Focus-state-ideas)
 - [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)

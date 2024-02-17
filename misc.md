@@ -36,6 +36,7 @@
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
+- [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
 - [Foundations: accessible names and descriptions](https://tetralogical.com/blog/2023/04/05/accessible-names-and-descriptions/)
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)

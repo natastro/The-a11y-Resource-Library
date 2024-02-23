@@ -81,6 +81,7 @@
 - [Overlays Underwhelm: a11y NYC](https://adrianroselli.com/2022/03/overlays-underwhelm-a11y-nyc.html)
 - [PDFs, non-HTML documents, and accessibility](https://blog.pope.tech/2022/05/03/pdfs-non-html-documents-and-accessibility/)
 - [Photosensitive Epilepsy Analysis Tool (PEAT)](https://trace.umd.edu/peat/)
+- [Prineville, Bend students make ADA-compliant covered wagons](https://ktvz.com/news/prineville/2022/11/25/prineville-bend-students-make-ada-compliant-covered-wagons/)
 - [Proposed Census Changes Would Drastically Undercount Disabled Americans](https://www.urban.org/urban-wire/proposed-census-changes-would-drastically-undercount-disabled-americans)
 - [Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Quick and Small Accessibility](https://bite-sized-a11y.com/)

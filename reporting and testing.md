@@ -59,6 +59,7 @@
 - [Screen reader, keyboard, and zoom testing](https://blog.pope.tech/2023/03/01/march-accessibility-focus-keyboard-and-screen-reader-testing/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
 - [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
+- [The Accessibility Hat Trick: Getting Abbreviations Right](https://alistapart.com/article/hattrick/)
 - [The Ultimate Guide to Automatic Accessibility Testing in CI/CD for React Apps](https://a5h.dev/post/how-to-test-for-a11y-in-react-app-cicd/)
 - [This is WCAG](https://thisiswcag.com/)
 - [Triaging WCAG 2.1 Level AAA](https://tetralogical.com/blog/2022/05/20/triaging-wcag-level-aaa/)

@@ -18,6 +18,7 @@
 - [Getting started with VoiceOver on iOS](https://www.a11yproject.com/posts/getting-started-with-voiceover-ios/)
 - [Getting VoiceOver to shut up](https://www.tempertemper.net/blog/getting-voiceover-to-shut-up)
 - [Hidden Accessibility Gems](https://convergeaccessibility.com/2023/01/09/hidden-accessibility-gems/)
+- [How Jetpack Compose is Helping Put Accessibility First](https://www.deque.com/blog/how-jetpack-compose-is-helping-put-accessibility-first-for-android/)
 - [How to Fix Common iOS Accessibility Issues](https://www.deque.com/blog/how-to-fix-common-ios-accessibility-issues/)
 - [How to Provide Accessibility in Your Native Android App with Jetpack Compose | Part 1](https://www.thedroidsonroids.com/blog/mobile-app-accessibility-android-guide)
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing/)

@@ -31,3 +31,4 @@
 ## Other
 [Accessibility Technology & Tools](https://www.microsoft.com/en-us/accessibility)
 [Assistive Technology in Action - Meet Mason](https://www.youtube.com/watch?v=IcUNnnwFm4g&list=PLMe9zDtTPTVe62Gb6b9Dkk_IPBUTGQHoD)
+[Sound of Silence: AT&T 5G Helmet | AT&T and Gallaudet University](https://www.youtube.com/watch?v=knGJ0T477UM)

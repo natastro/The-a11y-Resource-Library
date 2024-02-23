@@ -4,4 +4,5 @@
 - [Automatic Captions: Our Experiments and Best Practices](https://equalentry.com/automatic-captions-experiments-best-practices/)
 - [Considerations for TV user interface accessibility](https://tetralogical.com/blog/2023/08/09/tv-accessibility-considerations/)
 - [Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX](https://www.smashingmagazine.com/2023/01/closed-captions-subtitles-ux/)
+- [FCC Requires Video Conferencing Accessibility & Proposes ASL Support](https://www.fcc.gov/document/fcc-requires-video-conferencing-accessibility-proposes-asl-support)
 - [Government Communication Service tips to deliver better British Sign Language content](https://accessibility.blog.gov.uk/2024/01/29/government-communication-service-tips-to-deliver-better-british-sign-language-content/)

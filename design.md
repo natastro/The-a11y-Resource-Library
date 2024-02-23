@@ -49,6 +49,7 @@
 - [Quick tip: Reviewing a design for accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-08-14-reviewing-a-design-for-accessibility/)
 - [Resources for Designing for the Colorblind - We are Colorblind](https://wearecolorblind.com/resources/collection/resources-for-designing-for-the-colorblind/)
 - [Scroll to top: Does it need to be accessible? - DigitalA11Y](https://www.digitala11y.com/scroll-to-top-does-it-need-to-be-accessible/)
+- [The best accessible design of 2023](https://www.fastcompany.com/90931186/accessible-design-innovation-by-design-2023)
 - [Understanding Accessibility](https://www.understandingaccessibility.com/)
 - [Useful Accessibility And Usability Examples To Help Improve Your Designs](https://www.smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/)
 - [UX Principles that include Cognitive Accessibility](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/)

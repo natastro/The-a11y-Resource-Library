@@ -101,6 +101,7 @@
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
+- [Types of Color Vision Deficiency](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-vision-deficiency)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
 - [Using AI for Accessibility: Breaking Down Barriers in Content Creation?! — Moritz Gießmann, UX Engineer and Accessibility Expert from Karlsruhe, Germany.](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)

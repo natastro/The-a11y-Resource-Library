@@ -43,6 +43,7 @@
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)
+- [Mental health as a disability: designing for accessibility](https://blogs.microsoft.com/accessibility/mental-health-as-a-disability-designing-for-accessibility/)
 - [Microsoft inclusive design for cognition guidebook (PDF)](https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf)
 - [Neurodiversity Design System](https://www.neurodiversity.design/)
 - [Quick tip: Reviewing a design for accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-08-14-reviewing-a-design-for-accessibility/)

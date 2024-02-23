@@ -28,6 +28,7 @@
 - [Brief Note on Super- and Subscript text](https://adrianroselli.com/2022/09/brief-note-on-super-and-subscript-text.html)
 - [Building an accessible theme picker with HTML, CSS and JavaScript.](https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
+- [Can generative AI help write accessible code?](https://tetralogical.com/blog/2024/02/12/can-generative-ai-help-write-accessible-code/)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
 - [Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)

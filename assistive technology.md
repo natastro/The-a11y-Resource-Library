@@ -37,6 +37,7 @@
 - [Apple's highlights how its new tool helps disabled users communicate with Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice)
 - [Assistive Technology in Action - Meet Mason](https://www.youtube.com/watch?v=IcUNnnwFm4g&list=PLMe9zDtTPTVe62Gb6b9Dkk_IPBUTGQHoD)
 - [Be My Eyes](https://www.bemyeyes.com/)
+- [Challenge 2: Assistive Tech](https://hackaday.io/contest/190152-supplyframe-designlab-2023-hackaday-prize/log/216918-challenge-2-assistive-tech?mibextid=Zxz2cZ)
 - [Coding accessibility: Disability as catalyst for creativity](https://github.com/readme/featured/disability-creativity)
 - [Personal Voice on iPhone | The Lost Voice | Apple](https://www.youtube.com/watch?v=ra9I0HScTDw)
 - [Sound of Silence: AT&T 5G Helmet | AT&T and Gallaudet University](https://www.youtube.com/watch?v=knGJ0T477UM)

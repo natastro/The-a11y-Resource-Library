@@ -69,6 +69,7 @@
 - [Make-It-Accessible](https://www.make-it-accessible.com/)
 - [Making Accessibility a Habit](https://tri.be/blog/making-accessibility-a-habit/)
 - [Making Events Accessible: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
+- [METALLICA To Become First Major Rock Band To Release All Music Videos From One Album In American Sign Language](https://blabbermouth.net/news/metallica-to-become-first-major-rock-band-to-release-all-music-videos-from-one-album-in-american-sign-language)
 - [More common accessibility issues that you can fix today](https://hidde.blog/more-common-a11y-issues/)
 - [Morgan's Wonderland - The World's First Ultra-Accessible™ Theme Park](https://morganswonderland.org/)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)

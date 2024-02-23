@@ -7,6 +7,7 @@
 - [All components - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
 - [Android Accessibility: A Developers Guide](https://dev.to/steady5063/android-accessibility-a-developers-guide-1n0m)
 - [Android Accessibility: Labels and Hints](https://qbalsdon.github.io/android,/labels,/hints,/accessibility,/robust/2022/07/20/labels-and-hints.html)
+- [Android accessibility: roles and TalkBack](https://tetralogical.com/blog/2022/07/07/android-accessibility-roles-and-talkback/)
 - [Android develop - General navigation](https://a11y-guidelines.orange.com/en/mobile/android/development/general-navigation/)
 - [Android Headings](https://qbalsdon.github.io/accessibility,/testing,/unit/tests,/heading/2023/03/13/accessibility-headings.html)
 - [App accessibility: Commonly overlooked accessibility practices for mobile apps](https://bootcamp.uxdesign.cc/app-accessibility-commonly-overlooked-accessibility-practices-for-mobile-apps-98d82907b15c)

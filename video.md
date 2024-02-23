@@ -7,4 +7,5 @@
 - [Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX](https://www.smashingmagazine.com/2023/01/closed-captions-subtitles-ux/)
 - [FCC Requires Video Conferencing Accessibility & Proposes ASL Support](https://www.fcc.gov/document/fcc-requires-video-conferencing-accessibility-proposes-asl-support)
 - [Government Communication Service tips to deliver better British Sign Language content](https://accessibility.blog.gov.uk/2024/01/29/government-communication-service-tips-to-deliver-better-british-sign-language-content/)
+- [How Deaf Advocates Won the Battle for Closed Captioning and Changed the Way Americans Watch TV](https://time.com/5797491/closed-captioning-captions-history/)
 - [Why Is Everyone Watching TV With the Subtitles On?](https://www.theatlantic.com/ideas/archive/2023/06/watching-movies-tv-with-subtitles/674301/)

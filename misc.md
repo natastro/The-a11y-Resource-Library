@@ -47,6 +47,7 @@
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
+- [How artificial intelligence is helping ALS patients preserve their voices](https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
 - [How To Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)

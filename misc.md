@@ -26,6 +26,7 @@
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
+- [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)
 - [Brief Note on Super- and Subscript text](https://adrianroselli.com/2022/09/brief-note-on-super-and-subscript-text.html)
 - [Building an accessible theme picker with HTML, CSS and JavaScript.](https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)

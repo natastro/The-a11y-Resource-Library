@@ -1,6 +1,7 @@
 # Learning
 
 - [a11yphant](https://a11yphant.com/)
+- [Accessibility and Inclusivity: Study Guide](https://www.nngroup.com/articles/accessibility-inclusivity-study-guide/)
 - ['Accessibility' search results | Treehouse](https://teamtreehouse.com/library/q:accessibility)
 - ['Accessibility' search results | egghead.io](https://egghead.io/search?query=accessibility)
 - [The A11Y Collective - Web Accessibility Courses and Training](https://www.a11y-collective.com/)

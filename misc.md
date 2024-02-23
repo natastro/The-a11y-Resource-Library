@@ -88,6 +88,7 @@
 - [Stop trying to recruit unicorns with acorns](https://www.craigabbott.co.uk/blog/stop-trying-to-recruit-unicorns-with-acorns/)
 - [Text descriptions for data visualisations](https://accessibility.blog.gov.uk/2023/04/13/text-descriptions-for-data-visualisations/)
 - [The Accessibility Mindset: Moving Beyond Remediating, Fixing, and Reacting](https://a11ytalks.com/posts/2024-FEB/)
+- [The biggest assistive technology and accessibility triumphs of 2023](https://www.msn.com/en-us/news/technology/the-biggest-assistive-technology-and-accessibility-triumphs-of-2023/ar-AA1coGPF)
 - [The Cost of Comfort with Chronic Illness](https://tcf.org/content/commentary/the-cost-of-comfort-with-chronic-illness/)
 - [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)
 - [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)

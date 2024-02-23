@@ -15,6 +15,9 @@
 ## Fingerspelling
 [Fingerspelling with Machine Learning](https://fingerspelling.xyz/)
 
+## Hearing Aids
+[How Apple Airpods and Other Wireless Earbuds Can Be Used as Hearing Aids](https://www.healthline.com/health-news/how-apple-airpods-and-other-wireless-earbuds-can-be-used-as-hearing-aids)
+
 ## Screenreader
 [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw&feature=youtu.be)
 

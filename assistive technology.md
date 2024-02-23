@@ -1,5 +1,8 @@
 # Assistive Technology
 
+##AAC
+[AssistiveWare ushers in next generation of augmentative and alternative communication technology](https://www.apple.com/newsroom/2023/05/assistiveware-ushers-in-next-generation-of-aac-technology/)
+
 ## Braille
 [Welcome to Braille Scanner](https://twitter.com/azzoor/status/1509666205749354501)
 

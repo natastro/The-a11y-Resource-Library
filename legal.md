@@ -18,6 +18,7 @@
 - [LEGAL UPDATE: FEBRUARY 2023](https://convergeaccessibility.com/2023/03/01/legal-update-february-2023/)
 - [Long Overdue Report Shows Deficient Accessibility for Many Federal Websites](https://www.adatitleiii.com/2023/02/long-overdue-report-shows-deficient-accessibility-for-many-federal-websites/)
 - [March 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/04/03/legal-update-march-2023/)
+- [New York State Will Require Accessibility Guidelines (WCAG) 2.2 for State and County Websites](https://equalentry.com/accessibility-guidelines-new-york/)
 - [Overlays and Ethics: a conference panel that hurt my heart](https://www.lflegal.com/2024/01/zero-con-overlay-panel/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)
 - [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)

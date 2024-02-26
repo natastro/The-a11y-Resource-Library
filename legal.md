@@ -28,6 +28,7 @@
 - [The Law on Website and Mobile Accessibility Continues to Grow at a Glacial Pace Even as Lawsuit Numbers Reach All-Time Highs](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/jf22/vu-launey-egan/)
 - [U.S. Federal Appeals Court Slams Unethical ADA Practice - Law Office of Lainey Feingold](https://www.lflegal.com/2021/08/eleventh-circuit-ethics/)
 - [VPAT Primer: What is a VPAT? | Digital Accessibility Digest (microassist.com)](https://www.microassist.com/digital-accessibility/vpat/)
+- [Website Accessibility Lawsuits Rising Exponentially In 2023 According To Latest Data](https://www.forbes.com/sites/gusalexiou/2023/06/30/website-accessibility-lawsuits-rising-exponentially-in-2023-according-to-latest-data/?sh=2dd9cd8a717f)
 - [Website Accessibility under Title III of the Americans with Disabilities Act](https://www.natlawreview.com/article/navigating-website-accessibility-under-title-iii-americans-disabilities-act)
 - [Websites Not Bound by ADA Accessibility Rules, 11th Circuit Finds | Courthouse News Service](https://www.courthousenews.com/websites-not-bound-by-ada-accessibility-rules-11th-circuit-finds/)
 - [What every leader must know about 2023’s accessibility lawsuits](https://inklusiv.ca/what-every-leader-must-know-about-2023s-accessibility-lawsuits/)

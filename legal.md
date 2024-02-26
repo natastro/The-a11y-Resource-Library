@@ -21,6 +21,7 @@
 - [New York State Will Require Accessibility Guidelines (WCAG) 2.2 for State and County Websites](https://equalentry.com/accessibility-guidelines-new-york/)
 - [Overlays and Ethics: a conference panel that hurt my heart](https://www.lflegal.com/2024/01/zero-con-overlay-panel/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)
+- [Small Business in Maine Pulled into Website Accessibility Lawsuit](https://equalentry.com/accessibility-small-business-maine/)
 - [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
 - [States Need to Pay Attention to Oklahoma Mobile ID App Accessibility Court Case](https://equalentry.com/accessibility-oklahoma-mobile-id-app-court-case/)
 - [Takeaways from Lainey Feingold’s 2023 Digital Accessibility Legal Update](https://www.3playmedia.com/blog/lainey-feingolds-annual-digital-accessibility-legal-update/)

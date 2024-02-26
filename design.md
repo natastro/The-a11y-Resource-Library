@@ -11,6 +11,7 @@
 - [Accessibility and 2022: 13 Design Trends From a Usability Perspective](https://bhmbizsites.com/accessibility-and-2022-13-design-trends-from-a-usability-perspective/)
 - [Accessibility and font sizes - craigabbott.co.uk](https://www.craigabbott.co.uk/blog/accessibility-and-font-sizes)
 - [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)
+- [Accessibility and service design for inclusion](https://accessibility.blog.gov.uk/2024/02/21/accessibility-and-service-design-for-inclusion/)
 - [Accessibility Annotation Library](https://www.figma.com/community/file/976946194228458698)
 - [Accessibility via Color with Erika Kelter](https://www.thecolorauthority.com/podcast/accessibility-via-color-with-erika-keltor)
 - [Accessible but never boring](https://wise.design/design-at-wise/stories/accessible-but-never-boring-part-2)

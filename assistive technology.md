@@ -45,3 +45,4 @@
 - [Personal Voice on iPhone | The Lost Voice | Apple](https://www.youtube.com/watch?v=ra9I0HScTDw)
 - [Sound of Silence: AT&T 5G Helmet | AT&T and Gallaudet University](https://www.youtube.com/watch?v=knGJ0T477UM)
 - [Using technology to open up wilderness trails to people with disabilities](https://www.npr.org/2023/10/11/1202903735/mapping-wilderness-trails-technology-people-disabilities)
+- [WebAIM: Screen Reader User Survey #10 Results](https://webaim.org/projects/screenreadersurvey10/)

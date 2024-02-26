@@ -34,6 +34,7 @@
 - [Mobile A11y](https://mobilea11y.com/)
 - [mobile accessibility Archives | Deque](https://www.deque.com/blog/tag/mobile-accessibility-2/)
 - [Mobile Accessibility at W3C](https://www.w3.org/WAI/standards-guidelines/mobile/)
+- [Mobile Accessibility Barriers For Assistive Technology Users](https://www.smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/)
 - [Principles for improving app accessibility](https://developer.android.com/guide/topics/ui/accessibility/principles)
 - [rmc-picker@5.0.10](http://react-component.github.io/m-picker/)
 - [Sliders - Material Design 3](https://m3.material.io/components/sliders/overview)

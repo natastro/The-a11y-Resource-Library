@@ -25,6 +25,7 @@
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)
+- [Automating Ableism](https://www.theverge.com/24066641/disability-ableism-ai-census-qalys)
 - [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)

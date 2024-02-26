@@ -2,6 +2,7 @@
 
 - [8 Key Elements for Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-for-creating-a-culture-of-accessibility/)
 - [Accessibility Myths](https://a11ymyths.com/)
+- [Don’t care about accessibility? Resistance is futile!](https://cerovac.com/a11y/2024/02/dont-care-about-accessibility-resistance-is-futile/)
 - [Empathy Prompts](https://empathyprompts.net/)
 - [handbook/leadership/bringing_others_along/ingredients_for_case at main · inclusive-design-and-development/handbook · GitHub](https://github.com/inclusive-design-and-development/handbook/tree/main/leadership/bringing_others_along/ingredients_for_case)
 - [Making A Strong Case For Accessibility — Smashing Magazine](https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/)

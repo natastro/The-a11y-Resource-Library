@@ -8,6 +8,7 @@
 - [A Comprehensive Guide to Accessible Data Visualization](https://www.betterment.com/design/accessible-data-visualization)
 - [A Designer’s Guide to Documenting Accessibility & User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 - [A Guide To Designing For Older Adults](https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/)
+- [A Practical Guide To Designing For Colorblind People](https://www.smashingmagazine.com/2024/02/designing-for-colorblindness/)
 - [Accessibility and 2022: 13 Design Trends From a Usability Perspective](https://bhmbizsites.com/accessibility-and-2022-13-design-trends-from-a-usability-perspective/)
 - [Accessibility and font sizes - craigabbott.co.uk](https://www.craigabbott.co.uk/blog/accessibility-and-font-sizes)
 - [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)

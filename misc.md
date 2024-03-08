@@ -101,6 +101,7 @@
 - [The Accessibility Mindset: Moving Beyond Remediating, Fixing, and Reacting](https://a11ytalks.com/posts/2024-FEB/)
 - [The biggest assistive technology and accessibility triumphs of 2023](https://www.msn.com/en-us/news/technology/the-biggest-assistive-technology-and-accessibility-triumphs-of-2023/ar-AA1coGPF)
 - [The Cost of Comfort with Chronic Illness](https://tcf.org/content/commentary/the-cost-of-comfort-with-chronic-illness/)
+- [The Deaf Experience in Telehealth Accessibility](https://meryl.net/deaf-telehealth-accessibility/)
 - [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)
 - [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)

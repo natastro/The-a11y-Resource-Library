@@ -42,6 +42,7 @@
 - [How to test for low vision and improve the A11y user experience](https://www.linkedin.com/pulse/how-test-low-vision-improve-a11y-user-experience-mar%C3%ADa-jos%C3%A9/)
 - [How to use the accessibility tree for a11y testing](https://giovanicamara.com/blog/how-to-use-the-accessibility-tree-for-a11y-testing/)
 - [HTML test cases](https://russmaxdesign.github.io/accessible-forms/)
+- [Improve effectiveness and accuracy of web accessibility testing with sampling](https://blog.pope.tech/2024/02/26/improve-effectiveness-and-accuracy-of-web-accessibility-testing-with-sampling/)
 - [Inspecting WCAG 2.2: Accessible authentication](https://www.youtube.com/watch?v=9h5aLCS3wJQ)
 - [Inspecting WCAG 2.2: Target size](https://www.youtube.com/watch?v=91O_DzoLM3U)
 - [International Association of Accessibility Professionals: IAAP](https://www.accessibilityassociation.org/)

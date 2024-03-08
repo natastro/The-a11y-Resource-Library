@@ -1,6 +1,7 @@
 # Miscellaneous
 
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
+- [A Developer’s Guide for Web Accessibility](https://scribe.rip/@askParamSingh/a-developers-guide-for-web-accessibility-6b85448cc7a0)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)

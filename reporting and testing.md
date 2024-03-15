@@ -38,6 +38,7 @@
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)
+- [How to test 2.5.8 Target Size (Minimum)](https://www.tpgi.com/how-to-test-2-5-8-target-size-minimum/)
 - [How to test 3.2.6 Consistent Help](https://www.tpgi.com/how-to-test-3-2-6-consistent-help/)
 - [How to test for low vision and improve the A11y user experience](https://www.linkedin.com/pulse/how-test-low-vision-improve-a11y-user-experience-mar%C3%ADa-jos%C3%A9/)
 - [How to use the accessibility tree for a11y testing](https://giovanicamara.com/blog/how-to-use-the-accessibility-tree-for-a11y-testing/)

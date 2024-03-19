@@ -25,6 +25,7 @@
 - [Carry On Testing 2023](https://www.tpgi.com/carry-on-testing-2023/)
 - [ChromeLens Chrome Extension](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd)
 - [Coblis — Color Blindness Simulator - Colblindor](http://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [Common ARIA problems found in accessibility audits](https://cerovac.com/a11y/2024/03/common-aria-problems-found-in-accessibility-audits/)
 - [Consider accessibility when using horizontally scrollable regions in webpages and apps](https://cerovac.com/a11y/2024/02/consider-accessibility-when-using-horizontally-scrollable-regions-in-webpages-and-apps/)
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))
 - [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/)

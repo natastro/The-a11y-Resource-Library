@@ -18,6 +18,7 @@
 - [Accessible by design: how CERN Science Gateway exhibitions are tailored to people with visual impairments](https://home.cern/news/news/cern/accessible-design-how-cern-science-gateway-exhibitions-are-tailored-people-visual)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [Accessible Science: Chemistry 101](https://afb.org/aw/23/3/17883?_ga=2.206726672.2083777608.1649096491-1621399304.1639583769)
+- [Accommodating Neurodivergent Learners](https://a11ytalks.com/posts/2024-mar)
 - [Accounting for Internationalization with CSS and HTML](https://sparkbox.com/foundry/internationalization_css_html)
 - [Air Travel Accessibility: Are We Really in a Golden Age?](https://equalentry.com/air-travel-accessibility/)
 - [Allied Podcast: Making Data Visualization Accessible with Tori Clark](https://www.3playmedia.com/alliedpodcast/making-data-visualization-accessible-with-tori-clark/)

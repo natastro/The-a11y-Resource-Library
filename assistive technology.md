@@ -19,7 +19,8 @@
 [How Apple Airpods and Other Wireless Earbuds Can Be Used as Hearing Aids](https://www.healthline.com/health-news/how-apple-airpods-and-other-wireless-earbuds-can-be-used-as-hearing-aids)
 
 ## Screenreader
-[Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw&feature=youtu.be)
+- [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
+- [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw&feature=youtu.be)
 
 ## Sign Language
 - [SLAIT’s real-time sign language translation promises more accessible online communication – TechCrunch](https://techcrunch.com/2021/04/26/slaits-real-time-sign-language-translation-promises-more-accessible-online-communication/)

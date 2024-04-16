@@ -6,6 +6,7 @@
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)
+- [Ableism and Related Terms You Need to Know](https://meryl.net/ableism-microaggressions/)
 - [Access Guide](https://www.accessguide.io/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)

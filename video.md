@@ -9,4 +9,5 @@
 - [Government Communication Service tips to deliver better British Sign Language content](https://accessibility.blog.gov.uk/2024/01/29/government-communication-service-tips-to-deliver-better-british-sign-language-content/)
 - [How Deaf Advocates Won the Battle for Closed Captioning and Changed the Way Americans Watch TV](https://time.com/5797491/closed-captioning-captions-history/)
 - [Subtitles, Closed Captions, and Open Captions: What's the Difference?](https://benmyers.dev/blog/captions-and-subtitles/)
+- [The Complete Guide to Captioned Videos](https://meryl.net/captioned-videos-complete-guide/)
 - [Why Is Everyone Watching TV With the Subtitles On?](https://www.theatlantic.com/ideas/archive/2023/06/watching-movies-tv-with-subtitles/674301/)

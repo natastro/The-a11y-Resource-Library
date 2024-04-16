@@ -35,6 +35,7 @@
 - [Distinguishing between ARIA and native HTML attributes](https://www.deque.com/blog/distinguishing-between-aria-and-native-html-attributes/)
 - [Don’t Disable Form Controls](https://adrianroselli.com/2024/02/dont-disable-form-controls.html)
 - [Dynamic accessible descriptions reference](https://www.darins.page/articles/dynamic-accessible-descriptions-reference)
+- [Exploring the Power of ARIA Live Attribute in Web Accessibility](https://scribe.rip/@askParamSingh/exploring-the-power-of-aria-live-attribute-in-web-accessibility-f80e6d110ed4)
 - [Exposing Field Errors](https://adrianroselli.com/2023/04/exposing-field-errors.html)
 - [First Public Working Draft: Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://www.w3.org/news/2024/first-public-working-draft-accessible-rich-internet-applications-wai-aria-1-3/)
 - [FixA11y — improving accessibility](https://fixa11y.com/)

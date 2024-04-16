@@ -45,6 +45,7 @@
 - [Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)
 - [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)
+- [CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [DeafBlind communities may be creating a new language of touch ](https://www.newyorker.com/culture/annals-of-inquiry/deafblind-communities-may-be-creating-a-new-language-of-touch)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)

@@ -7,6 +7,7 @@
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
 - [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
+- [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [Government not meeting minimum accessibility standards on federal websites, GSA report finds](https://fedscoop.com/government-accessibility-standards-websites-gsa-report/)
 - [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)

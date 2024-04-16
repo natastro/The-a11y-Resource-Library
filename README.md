@@ -1,5 +1,6 @@
 # a11y
 
+- [Artificial Intelligence](https://github.com/natastro/a11y/blob/main/artificial%20intelligence)
 - [Assistive Technology](https://github.com/natastro/a11y/blob/master/assistive%20technology.md)
 - [Case for Accessibility](https://github.com/natastro/a11y/blob/master/case%20for%20a11y.md)
 - [Components](https://github.com/natastro/a11y/blob/master/components.md)

@@ -17,6 +17,7 @@
 - [Accessibility Testing Tools and Practices](https://accessibility.huit.harvard.edu/testing)
 - [Accessibility: A new standard test](https://www.linkedin.com/pulse/accessibility-new-standard-test-steven-mason/)
 - [Accessible Colors | WCAG 2.0 AA and AAA color contrast checker (accessible-colors.com)](https://accessible-colors.com/)
+- [ARIA role=”application” and mobile screen readers](https://cerovac.com/a11y/2024/03/aria-roleapplication-and-mobile-screen-readers/)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
 - [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)

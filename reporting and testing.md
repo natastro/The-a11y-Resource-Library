@@ -45,6 +45,7 @@
 - [How to test 2.4.11: Focus Not Obscured (Minimum)](https://www.tpgi.com/how-to-test-2-4-11-focus-not-obscured-minimum/)
 - [How to test 2.5.8 Target Size (Minimum)](https://www.tpgi.com/how-to-test-2-5-8-target-size-minimum/)
 - [How to test 3.2.6 Consistent Help](https://www.tpgi.com/how-to-test-3-2-6-consistent-help/)
+- [How to test 3.3.8 Accessible Authentication (Minimum)](https://www.tpgi.com/how-to-test-3-3-8-accessible-authentication-minimum/)
 - [How to test for low vision and improve the A11y user experience](https://www.linkedin.com/pulse/how-test-low-vision-improve-a11y-user-experience-mar%C3%ADa-jos%C3%A9/)
 - [How to use the accessibility tree for a11y testing](https://giovanicamara.com/blog/how-to-use-the-accessibility-tree-for-a11y-testing/)
 - [HTML test cases](https://russmaxdesign.github.io/accessible-forms/)

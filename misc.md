@@ -28,6 +28,7 @@
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
 - [Are you making these five mistakes when writing alt text?](https://www.a11yproject.com/posts/are-you-making-these-five-mistakes-when-writing-alt-text/)
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
+- [Arguments for opening links in a new tab or window](https://cloudfour.com/thinks/arguments-for-opening-links-in-a-new-tab-or-window/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)

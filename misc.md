@@ -45,6 +45,7 @@
 - [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
 - [Commentary: What Coldplay concerts in Singapore tell us about music accessibility](https://www.channelnewsasia.com/commentary/coldplay-deaf-music-sign-language-interpreters-inclusivity-4125706)
+- [Conducting Accessibility Research In An Inaccessible Ecosystem](https://www.smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/)
 - [Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)
 - [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)

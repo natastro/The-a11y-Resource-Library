@@ -61,6 +61,7 @@
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
 - [How artificial intelligence is helping ALS patients preserve their voices](https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
+- [How to check and fix PDF accessibility issues](https://blog.pope.tech/2024/04/25/how-to-check-and-fix-pdf-accessibility-issues/)
 - [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
 - [How to Make Your Website Accessible for People Who Are Deaf](https://equalizedigital.com/make-your-website-accessible-for-deaf/?utm_source=A11yWeekly&utm_medium=sponsored)
 - [How To Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)

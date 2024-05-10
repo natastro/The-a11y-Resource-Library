@@ -42,6 +42,7 @@
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
 - [Can generative AI help write accessible code?](https://tetralogical.com/blog/2024/02/12/can-generative-ai-help-write-accessible-code/)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
+- [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
 - [Commentary: What Coldplay concerts in Singapore tell us about music accessibility](https://www.channelnewsasia.com/commentary/coldplay-deaf-music-sign-language-interpreters-inclusivity-4125706)
 - [Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)

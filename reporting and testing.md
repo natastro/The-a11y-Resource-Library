@@ -21,6 +21,7 @@
 - [ARIA role=”application” and mobile screen readers](https://cerovac.com/a11y/2024/03/aria-roleapplication-and-mobile-screen-readers/)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
 - [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
+- [Beware – automatic tools over-report accessibility issues and steal your time](https://cerovac.com/a11y/2024/04/beware-automatic-tools-over-report-accessibility-issues-and-steal-your-time/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
 - [ButtonBuddy - Accessible button contrast generator](https://buttonbuddy.dev/)
 - [Buttons and Links - common misconceptions](https://accessbydesign.uk/buttons-and-links-common-misconceptions/)

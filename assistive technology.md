@@ -36,6 +36,7 @@
 - [VoiceOver’s Trackpad Commander on Mac](https://www.tempertemper.net/blog/voiceovers-trackpad-commander-on-mac)
 
 ## Other
+- [A to Z of assistive technology for reading digital text](https://veroniiiica.com/a-to-z-of-assistive-technology-for-reading/)
 - [Accessibility Technology & Tools](https://www.microsoft.com/en-us/accessibility)
 - [Amazon debuts Eye Gaze accessibility features on the Fire Max 11 tablet](https://www.engadget.com/amazon-debuts-eye-gaze-accessibility-features-on-the-fire-max-11-tablet-154042714.html?fbclid=IwAR2oHcJ465LqNa9KgV_U07M63aO43UGs0r5gPQ5EbrxsHDRuKfoL4Svmyt0_aem_AaNAD4VZEHu0UiF-r4kRnwGoNevpkY-onVFLnV0za9yqY59b2ZZaC2QibjZz8eQf9-g&mibextid=S66gvF)
 - [Apple's highlights how its new tool helps disabled users communicate with Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice)

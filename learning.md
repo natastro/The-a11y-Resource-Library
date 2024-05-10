@@ -19,6 +19,7 @@
 - [Microsoft Accessibility Features and Tools Module](https://docs.microsoft.com/en-us/learn/modules/accessibility-features/?WT.mc_id=linkedin)
 - [Online Accessibility Courses | UCOP](https://www.ucop.edu/information-technology-services/initiatives/it-accessibility-ucop/online-accessibility-courses.html)
 - [Self-Paced Accessibility Courses](https://cccaccessibility.org/training/self-paced-accessibility-courses)
+- [ta11y: Learn about accessibility](https://www.ta11y.org/learning)
 - [Training | Digital Accessibility](https://accessibility.huit.harvard.edu/training)
 - [Using this tutorial | Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)

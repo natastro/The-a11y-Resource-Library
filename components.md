@@ -55,3 +55,4 @@
 - [Use the dialog element (reasonably)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)
 - [Web Accessible Code Libraries and Design Patterns – Web Axe](http://www.webaxe.org/web-accessible-code-library-design-systems-patterns/)
 - [What's Your Heading?](https://dev.to/colabottles/whats-your-heading-2eak)
+- [Why are my live regions not working?](https://tetralogical.com/blog/2024/05/01/why-are-my-live-regions-not-working/)

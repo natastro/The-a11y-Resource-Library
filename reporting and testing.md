@@ -7,6 +7,7 @@
 - [A 4-step process for testing the accessibility of your designs | by Justine Win | Shopify UX](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 - [A beginner’s guide to link accessibility](https://blog.pope.tech/2023/01/01/link-accessibility/)
 - [A beginner’s guide to manual accessibility testing](https://blog.pope.tech/2023/03/01/a-beginners-guide-to-manual-accessibility-testing/)
+- [A Comparison of Automated Testing Tools for Digital Accessibility](https://equalentry.com/digital-accessibility-automated-testing-tools-comparison/)
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 - [A11yAutomation](https://a11y-automation.dev/)
 - [Accessibility | 2020 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2020/accessibility)

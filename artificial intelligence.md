@@ -8,4 +8,5 @@
 - [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
 - [No, AI user research is not “better than nothing”—it’s much worse](https://scribe.rip/no-ai-user-research-is-not-better-than-nothing-its-much-worse-5add678ab9e7)
 - [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
+- [The Goldilocks zone: Achieving an accessible digital future in the AI age](https://www.deque.com/blog/the-goldilocks-zone-achieving-an-accessible-digital-future-in-the-ai-age/)
 - [Using AI for accessibility: Breaking down barriers in content creation?!](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)

@@ -25,6 +25,7 @@
 - [Allied Podcast: Making Data Visualization Accessible with Tori Clark](https://www.3playmedia.com/alliedpodcast/making-data-visualization-accessible-with-tori-clark/)
 - [Alternative text in the wild: 5 alternative text examples](https://blog.pope.tech/2023/03/31/alternative-text-in-the-wild-5-alternative-text-examples/)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)
+- [Announcing the Compose Accessibility Techniques for Android™ Open Source Project](https://scribe.rip/cvs-health-tech-blog/announcing-the-compose-accessibility-techniques-for-android-open-source-project-9b95b28419f8)
 - [Apple Podcasts Transcripts Are Changing Podcast Consumption](https://www.3playmedia.com/blog/apple-podcasts-transcripts-are-changing-the-way-users-consume-podcasts/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
 - [Are you making these five mistakes when writing alt text?](https://www.a11yproject.com/posts/are-you-making-these-five-mistakes-when-writing-alt-text/)

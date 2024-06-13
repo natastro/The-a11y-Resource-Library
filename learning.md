@@ -24,6 +24,7 @@
 - [Using this tutorial | Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [Web Accessibility Courses](https://www.coursera.org/courses?query=web%20accessibility)
+- [What Every Engineer Should Know About Digital Accessibility](https://www.routledge.com/What-Every-Engineer-Should-Know-About-Digital-Accessibility/Horton-Sloan/p/book/9781032263861)
 - [Writing for Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/modules/writing-for-web-accessibility)
 
 

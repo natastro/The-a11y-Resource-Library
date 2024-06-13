@@ -89,6 +89,7 @@
 - [METALLICA To Become First Major Rock Band To Release All Music Videos From One Album In American Sign Language](https://blabbermouth.net/news/metallica-to-become-first-major-rock-band-to-release-all-music-videos-from-one-album-in-american-sign-language)
 - [More common accessibility issues that you can fix today](https://hidde.blog/more-common-a11y-issues/)
 - [Morgan's Wonderland - The World's First Ultra-Accessible™ Theme Park](https://morganswonderland.org/)
+- [My Approach to Alt Text](https://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
 - [ND Life Experiences](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/nd-life-experiences-22?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Neurodiversity and UX: Essential Resources for Cognitive Accessibility](https://stephaniewalter.design/blog/neurodiversity-and-ux-essential-resources-for-cognitive-accessibility/)

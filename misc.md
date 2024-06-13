@@ -119,6 +119,7 @@
 - [Stop trying to recruit unicorns with acorns](https://www.craigabbott.co.uk/blog/stop-trying-to-recruit-unicorns-with-acorns/)
 - [Tech Writing for Accessibility self-study](https://developers.google.com/tech-writing/accessibility/self-study)
 - [Text descriptions for data visualisations](https://accessibility.blog.gov.uk/2023/04/13/text-descriptions-for-data-visualisations/)
+- [The accessibility community is not the disability community](https://buttondown.email/practicaltips/archive/the-accessibility-community-is-not-the-disability/)
 - [The Accessibility Mindset: Moving Beyond Remediating, Fixing, and Reacting](https://a11ytalks.com/posts/2024-FEB/)
 - [The biggest assistive technology and accessibility triumphs of 2023](https://www.msn.com/en-us/news/technology/the-biggest-assistive-technology-and-accessibility-triumphs-of-2023/ar-AA1coGPF)
 - [The Cost of Comfort with Chronic Illness](https://tcf.org/content/commentary/the-cost-of-comfort-with-chronic-illness/)

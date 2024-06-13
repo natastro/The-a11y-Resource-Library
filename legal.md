@@ -4,6 +4,7 @@
 - [#UserWay Will Get You Sued](https://adrianroselli.com/2021/09/userway-will-get-you-sued.html#LevelAccessBuysUserWay)
 - [Accessibility Advocates Sued by French Overlay Company](https://equalentry.com/accessibility-advocates-sued-by-french-overlay-company/)
 - [Accessibility Lawsuit Against Sweetgreen](https://equalentry.com/accessibility-lawsuit-against-sweetgreen/)
+- [An introduction to the European Accessibility Act (EAA)](https://www.deque.com/blog/european-accessibility-act-eaa-intro/)
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)

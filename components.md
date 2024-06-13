@@ -40,6 +40,7 @@
 - [Ikonate – fully customisable & accessible vector icons](https://ikonate.com/)
 - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 - [Inclusive datepicker | Tommy Feldt](https://fymmot.github.io/inclusive-dates/)
+- [Level-Setting Heading Levels](https://adrianroselli.com/2024/05/level-setting-heading-levels.html)
 - [Maps | Accessibility Guidelines](http://web-accessibility.carnegiemuseums.org/content/maps/)
 - [Multi-Column Sortable Table Experiment | Adrian Roselli](https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html)
 - [named and framed - HTML Accessibility](https://html5accessibility.com/stuff/2021/08/26/named-and-framed/)

@@ -15,6 +15,7 @@
 - [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessibility Myths](https://a11ymyths.com/)
+- [Accessibility overlays are not for disabled people](https://www.tempertemper.net/blog/accessibility-overlays-are-not-for-disabled-people)
 - [Accessible by design: how CERN Science Gateway exhibitions are tailored to people with visual impairments](https://home.cern/news/news/cern/accessible-design-how-cern-science-gateway-exhibitions-are-tailored-people-visual)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [Accessible Science: Chemistry 101](https://afb.org/aw/23/3/17883?_ga=2.206726672.2083777608.1649096491-1621399304.1639583769)

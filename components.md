@@ -13,6 +13,7 @@
 - [Accessible Maps on the Web | Equal Entry](https://equalentry.com/accessible-maps-on-the-web/)
 - [Accessible notifications with ARIA Live Regions (Part 1)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/)
 - [Accessible notifications with ARIA Live Regions (Part 2)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
+- [Accessible QR Codes – The Ultimate Guide](https://axesslab.com/qr-codes/)
 - [accessible-slick - the last (accessible) carousel you'll ever need (accessible360.github.io)](https://accessible360.github.io/accessible-slick/)
 - [Are you sure that’s a number input?](https://kilianvalkhof.com/2022/css-html/are-you-sure-thats-a-number-input/)
 - [Axess Lab |   Accessible datepickers](https://axesslab.com/accessible-datepickers/)

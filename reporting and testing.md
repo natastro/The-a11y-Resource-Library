@@ -81,6 +81,7 @@
 - [The Ultimate Guide to Automatic Accessibility Testing in CI/CD for React Apps](https://a5h.dev/post/how-to-test-for-a11y-in-react-app-cicd/)
 - [This is WCAG](https://thisiswcag.com/)
 - [Triaging WCAG 2.1 Level AAA](https://tetralogical.com/blog/2022/05/20/triaging-wcag-level-aaa/)
+- [Understanding the Role of ARIA Role=alert: Best Practices and Common Issues](https://scribe.rip/@askParamSingh/understanding-the-role-of-aria-role-alert-best-practices-and-common-issues-5edefa2d016c)
 - [WCAG 2.1 Primer](https://alphagov.github.io/wcag-primer/)
 - [WCAG 2.1 success criteria filter tool | CANAXESS](https://wcag-filter-tool.com/)
 - [WCAG 2.2 Detective Skills](https://accessibility.blog.gov.uk/2024/03/13/wcag-2-2-detective-skills/)

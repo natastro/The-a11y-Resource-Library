@@ -18,6 +18,7 @@
 - [Lawsuits Over Digital Accessibility for People With Disabilities Are Rising - WSJ](https://www.wsj.com/articles/lawsuits-over-digital-accessibility-for-people-with-disabilities-are-rising-11626369056)
 - [Legal Update:  Accessibility Overlay Edition - Law Office of Lainey Feingold](https://www.lflegal.com/2021/11/overlay-legal-update/)
 - [Legal update: April 2024](https://convergeaccessibility.com/2024/04/29/legal-update-april-2024/)
+- [Legal update: May 2024](https://convergeaccessibility.com/2024/06/03/legal-update-may-2024/)
 - [Legal update double issue: February - March 2024](https://convergeaccessibility.com/2024/04/01/legal-update-february-march-2024/)
 - [LEGAL UPDATE: FEBRUARY 2023](https://convergeaccessibility.com/2023/03/01/legal-update-february-2023/)
 - [Long Overdue Report Shows Deficient Accessibility for Many Federal Websites](https://www.adatitleiii.com/2023/02/long-overdue-report-shows-deficient-accessibility-for-many-federal-websites/)

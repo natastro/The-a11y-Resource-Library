@@ -13,4 +13,5 @@
 - [US DEPARTMENT OF LABOR ANNOUNCES FUNDING OPPORTUNITY FOR EMPLOYER-FOCUSED DISABILITY POLICY, TECHNICAL ASSISTANCE CENTER](https://www.dol.gov/newsroom/releases/odep/odep20230509)
 - [Use captions & translated captions in Google Meet](https://support.google.com/meet/answer/10964115?visit_id=638443174087296840-2832090626&rd=1)
 - [Work-Leave, the ADA, and the FMLA | ADA National Network](https://adata.org/factsheet/work-leave)
+- [Workplace discrimination: another terrible thing Windows Recall might enable](https://ericwbailey.website/published/workplace-discrimination-another-terrible-thing-windows-recall-might-enable/)
 - [Zoom Features](https://www.zoom.com/en/accessibility/)

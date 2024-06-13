@@ -66,6 +66,7 @@
 - [Open Accessibility Standards](https://pauljadam.github.io/a11y-standards/)
 - [Perfect timing for new WCAG 3 guideline considerations](https://cerovac.com/a11y/2024/05/perfect-timing-for-new-wcag-3-guideline-considerations/)
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)
+- [Quick incremental accessibility audits for small business websites](https://cerovac.com/a11y/2024/05/quick-incremental-accessibility-audits-for-small-business-websites/)
 - [React Testing Library & Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Reading a Voluntary Product Accessibility Template (VPAT) or Accessibility Conformance Report (ACR)](https://equalentry.com/reading-vpat-voluntary-product-accessibility-template/)
 - [Reflow Red Flags](https://www.tpgi.com/reflow-red-flags/)

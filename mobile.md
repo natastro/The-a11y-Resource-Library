@@ -1,5 +1,6 @@
 # Mobile Accessibility
 
+- [8 new accessibility updates across Lookout, Google Maps and more](https://blog.google/outreach-initiatives/accessibility/ai-accessibility-update-gaad-2024/)
 - [Accessibility modifiers | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/view-accessibility)
 - [accessibilityViewIsModal | Apple Developer Documentation](https://developer.apple.com/documentation/objectivec/nsobject/1615089-accessibilityviewismodal)
 - [Accessible Mobile Apps Weekly](https://accessible-mobile-apps-weekly.ghost.io/)

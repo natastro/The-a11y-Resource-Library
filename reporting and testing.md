@@ -64,6 +64,7 @@
 - [Not so short note on aria-label usage – Big Table Edition](https://html5accessibility.com/stuff/2024/05/22/not-so-short-note-on-aria-label-usage-big-table-edition/)
 - [On disabled and aria-disabled attributes](https://kittygiraudel.com/2024/03/29/on-disabled-and-aria-disabled-attributes/)
 - [Open Accessibility Standards](https://pauljadam.github.io/a11y-standards/)
+- [Perfect timing for new WCAG 3 guideline considerations](https://cerovac.com/a11y/2024/05/perfect-timing-for-new-wcag-3-guideline-considerations/)
 - [Quick accessibility tests anyone can do - TetraLogical](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)
 - [React Testing Library & Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Reading a Voluntary Product Accessibility Template (VPAT) or Accessibility Conformance Report (ACR)](https://equalentry.com/reading-vpat-voluntary-product-accessibility-template/)

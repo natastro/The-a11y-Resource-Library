@@ -15,6 +15,7 @@
 - [Accessibility and Inclusivity:  Distinctions in Experience Design | UX Booth](https://www.uxbooth.com/articles/accessibility-and-inclusivity-distinctions-in-experience-design/)
 - [Accessibility and service design for inclusion](https://accessibility.blog.gov.uk/2024/02/21/accessibility-and-service-design-for-inclusion/)
 - [Accessibility Annotation Library](https://www.figma.com/community/file/976946194228458698)
+- [Accessibility in Design Systems: A Comprehensive Approach Through Documentation and Assets](https://www.supernova.io/blog/accessibility-in-design-systems-a-comprehensive-approach-through-documentation-and-assets)
 - [Accessibility via Color with Erika Kelter](https://www.thecolorauthority.com/podcast/accessibility-via-color-with-erika-keltor)
 - [Accessible but never boring](https://wise.design/design-at-wise/stories/accessible-but-never-boring-part-2)
 - [Accessible color for design systems just got easier](https://medium.com/@NateBaldwin/accessible-color-for-design-systems-just-got-easier-40e8420a8371)

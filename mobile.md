@@ -50,3 +50,4 @@
 - [What iOS Traits Actually Do](https://www.deque.com/blog/ios-traits/)
 - [What WCAG 2.2 Means for Native Mobile Accessibility](https://www.deque.com/blog/what-wcag-2-2-means-for-native-mobile-accessibility/)
 - [What's New in Android Accessibility](https://io.google/2023/program/dc29f421-2842-4838-bd87-1ac50f1ac00a/)
+- [Why Are There No Mobile Accessibility Guidelines in WCAG?](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)

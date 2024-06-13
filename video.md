@@ -1,3 +1,4 @@
+- [A complete guide for adding captions to YouTube videos](https://blog.pope.tech/2024/05/24/a-complete-guide-for-adding-captions-to-youtube-videos/)
 - [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
 - [Adding sign language to videos](https://tetralogical.com/blog/2023/03/07/adding-sign-language-to-video/)
 - [Amazon Has 8 Useful Accessibility Features Available on Prime Video, Alexa, and Other Amazon Devices](https://cordcuttersnews.com/amazon-has-8-useful-accessibility-features-available-on-prime-video-alexa-and-other-amazon-devices/)

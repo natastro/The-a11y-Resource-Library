@@ -10,6 +10,7 @@
 - [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
 - [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [Government not meeting minimum accessibility standards on federal websites, GSA report finds](https://fedscoop.com/government-accessibility-standards-websites-gsa-report/)
+- [Health and Human Services Issues Rule to Prevent Disability Discrimination](https://equalentry.com/disability-discrimination-hhs/)
 - [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)
 - [January 2024 Accessibility Legal Update](https://convergeaccessibility.com/2024/01/29/legal-update-january-2024/)

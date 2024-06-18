@@ -43,6 +43,7 @@
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
+- [How to browse the web with the keyboard alone](https://www.tempertemper.net/blog/how-to-browse-the-web-with-the-keyboard-alone)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)
 - [How to test 2.4.11: Focus Not Obscured (Minimum)](https://www.tpgi.com/how-to-test-2-4-11-focus-not-obscured-minimum/)
 - [How to test 2.5.8 Target Size (Minimum)](https://www.tpgi.com/how-to-test-2-5-8-target-size-minimum/)

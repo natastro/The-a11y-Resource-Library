@@ -44,6 +44,7 @@
 - [Figma - Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054)
 - [Five ways to include d/Deaf users in your designs - TPGi](https://www.tpgi.com/five-ways-to-include-d-deaf-users-in-your-designs/)
 - [Focus Appearance thoughts](https://alastairc.uk/2023/02/focus-appearance-thoughts/)
+- [foreveryone.design](https://www.foreveryone.design/)
 - [Foundations: colour and meaning](https://tetralogical.com/blog/2022/02/15/colour-meaning/)
 - [Hidden vs. Disabled In UX](https://www.smashingmagazine.com/2024/05/hidden-vs-disabled-ux/)
 - [High-contrast — when you think dark mode is enough](https://uxdesign.cc/high-contrast-when-you-think-the-dark-mode-is-enough-d190218d4bba)

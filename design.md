@@ -51,6 +51,7 @@
 - [How to become an accessibility designer for free.](https://www.linkedin.com/pulse/how-become-accessibility-designer-free-karl-goldstraw-6dtze/)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+- [Intro to colour contrast](https://goodpractices.design/articles/colour-contrast)
 - [Make sure that your design system is accessible](https://cerovac.com/a11y/2024/04/make-sure-that-your-design-system-is-accessible/)
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)
 - [Mental health as a disability: designing for accessibility](https://blogs.microsoft.com/accessibility/mental-health-as-a-disability-designing-for-accessibility/)

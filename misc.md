@@ -64,6 +64,7 @@
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
+- [Hot in Here: Heat Waves, Climate Change, and Disability](https://a11ysavvy.com/2024/06/19/hot-in-here-heat-waves-climate-change-and-disability/)
 - [How artificial intelligence is helping ALS patients preserve their voices](https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to check and fix PDF accessibility issues](https://blog.pope.tech/2024/04/25/how-to-check-and-fix-pdf-accessibility-issues/)

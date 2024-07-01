@@ -11,4 +11,5 @@
 - [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
 - [The Goldilocks zone: Achieving an accessible digital future in the AI age](https://www.deque.com/blog/the-goldilocks-zone-achieving-an-accessible-digital-future-in-the-ai-age/)
 - [Two important AI developments affecting accessibility](https://convergeaccessibility.com/2024/05/23/two_important_ai_developments_affecting_accessibility/)
+- [Two New Artificial Intelligence Laws and Their Effects on Accessibility](https://equalentry.com/accessibility-artificial-intelligence-laws/)
 - [Using AI for accessibility: Breaking down barriers in content creation?!](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)

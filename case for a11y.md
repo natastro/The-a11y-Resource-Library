@@ -5,6 +5,7 @@
 - [Don’t care about accessibility? Resistance is futile!](https://cerovac.com/a11y/2024/02/dont-care-about-accessibility-resistance-is-futile/)
 - [Empathy Prompts](https://empathyprompts.net/)
 - [handbook/leadership/bringing_others_along/ingredients_for_case at main · inclusive-design-and-development/handbook · GitHub](https://github.com/inclusive-design-and-development/handbook/tree/main/leadership/bringing_others_along/ingredients_for_case)
+- [How To Make A Strong Case For Accessibility](https://www.smashingmagazine.com/2024/06/how-make-strong-case-accessibility/)
 - [Making A Strong Case For Accessibility — Smashing Magazine](https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/)
 - [Proving accessibility is worth it with analytics - Intuit Developer Community Blog](https://blogs.intuit.com/blog/2021/05/06/proving-accessibility-is-worth-it-with-analytics/)
 - [The Book on Accessibility](https://www.thebookonaccessibility.com/)

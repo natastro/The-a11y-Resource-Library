@@ -59,3 +59,4 @@
 - [Web Accessible Code Libraries and Design Patterns – Web Axe](http://www.webaxe.org/web-accessible-code-library-design-systems-patterns/)
 - [What's Your Heading?](https://dev.to/colabottles/whats-your-heading-2eak)
 - [Why are my live regions not working?](https://tetralogical.com/blog/2024/05/01/why-are-my-live-regions-not-working/)
+- [Why toggle switches suck (and what to do instead)](https://adamsilver.io/blog/why-toggle-switches-suck-and-what-to-do-instead/)

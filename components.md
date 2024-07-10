@@ -22,6 +22,7 @@
 - [Card designs and selectable text](https://intopia.digital/articles/card-designs-and-selectable-text/)
 - [Carousels: No one likes you](https://jhalabi.com/blog/carousels-no-one-likes-you)
 - [Check-All / Expand-All Controls](https://adrianroselli.com/2024/03/check-all-expand-all-controls.html)
+- [Create an accessible combobox using ARIA](https://blog.pope.tech/2024/07/01/create-an-accessible-combobox-using-aria/)
 - [CSS { In Real Life } | Accessible Toggles](https://css-irl.info/accessible-toggles/)
 - [Datepicker](https://dequeuniversity.com/library/aria/date-picker)
 - [Demo - Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker/)

@@ -33,6 +33,7 @@
 - [Divs are bad!](https://www.matuzo.at/blog/2022/divs-are-bad/)
 - [Doing what’s required: Indicating mandatory fields in an accessible way](https://www.tpgi.com/doing-whats-required-indicating-mandatory-fields-in-an-accessible-way/)
 - [Esri Accessibility | Software Accessibility for ArcGIS Products](https://www.esri.com/en-us/accessibility/overview)
+- [Feedback on a Pagination Pattern](https://adrianroselli.com/2024/07/feedback-on-a-pagination-pattern.html)
 - [Fine-tuning Text Inputs](https://garrettdimon.com/journal/posts/fine-tuning-text-inputs)
 - [Focus state ideas by Kelsey Cavitt on Dribbble](https://dribbble.com/shots/12592251-Focus-state-ideas)
 - [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)

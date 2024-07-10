@@ -5,6 +5,7 @@
 - [Accessibility Advocates Sued by French Overlay Company](https://equalentry.com/accessibility-advocates-sued-by-french-overlay-company/)
 - [Accessibility Lawsuit Against Sweetgreen](https://equalentry.com/accessibility-lawsuit-against-sweetgreen/)
 - [ADA Title II: Urgent digital accessibility requirements for US state and local governments and their third-party vendors](https://www.deque.com/blog/ada-title-ii-urgent-digital-accessibility-requirements-for-us-state-and-local-governments-and-their-third-party-vendors/)
+- [ADA Update: Title II’s Final Rule Clarifies Captioning and Audio Description in Higher Education](https://www.3playmedia.com/blog/ada-update-final-rule-a-clearer-picture-for-captioning-and-audio-description-in-higher-education/)
 - [An introduction to the European Accessibility Act (EAA)](https://www.deque.com/blog/european-accessibility-act-eaa-intro/)
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)

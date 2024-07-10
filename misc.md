@@ -59,6 +59,7 @@
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
 - [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
+- [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Foundations: accessible names and descriptions](https://tetralogical.com/blog/2023/04/05/accessible-names-and-descriptions/)
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [Furiosa and the Disability Wasteland](https://reactormag.com/furiosa-and-the-disability-wasteland/)

@@ -36,6 +36,7 @@
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 1](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast/)
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 2 ](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast-part-2/)
 - [Distinguishing between ARIA and native HTML attributes](https://www.deque.com/blog/distinguishing-between-aria-and-native-html-attributes/)
+- [Does WCAG 2.2 Level A apply to Native apps?](https://html5accessibility.com/stuff/2024/07/08/wcag-level-a-bang-for-your-app-a11y-buck/)
 - [Don’t Disable Form Controls](https://adrianroselli.com/2024/02/dont-disable-form-controls.html)
 - [Dynamic accessible descriptions reference](https://www.darins.page/articles/dynamic-accessible-descriptions-reference)
 - [Exploring the Power of ARIA Live Attribute in Web Accessibility](https://scribe.rip/@askParamSingh/exploring-the-power-of-aria-live-attribute-in-web-accessibility-f80e6d110ed4)

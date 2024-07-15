@@ -93,6 +93,7 @@
 - [Making Accessibility a Habit](https://tri.be/blog/making-accessibility-a-habit/)
 - [Making Events Accessible: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
 - [Making Math Accessible](https://www.tpgi.com/making-math-accessible/)
+- [Making Your PowerPoint Accessible: Step-by-Step Guide](https://www.linkedin.com/pulse/making-your-powerpoint-accessible-step-by-step-guide-sis-enable-v7s1f/?trackingId=MRgnibOSMtHSlUa97DkhVw%3D%3D)
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Masonry and reading order](https://rachelandrew.co.uk/archives/2024/05/26/masonry-and-reading-order/)
 - [METALLICA To Become First Major Rock Band To Release All Music Videos From One Album In American Sign Language](https://blabbermouth.net/news/metallica-to-become-first-major-rock-band-to-release-all-music-videos-from-one-album-in-american-sign-language)

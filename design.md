@@ -49,6 +49,7 @@
 - [Hidden vs. Disabled In UX](https://www.smashingmagazine.com/2024/05/hidden-vs-disabled-ux/)
 - [High-contrast — when you think dark mode is enough](https://uxdesign.cc/high-contrast-when-you-think-the-dark-mode-is-enough-d190218d4bba)
 - [How to become an accessibility designer for free.](https://www.linkedin.com/pulse/how-become-accessibility-designer-free-karl-goldstraw-6dtze/)
+- [How to check and document design accessibility in your mockups](https://stephaniewalter.design/blog/how-to-check-and-document-design-accessibility-in-your-figma-mockups/)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Intro to colour contrast](https://goodpractices.design/articles/colour-contrast)

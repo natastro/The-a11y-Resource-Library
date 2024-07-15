@@ -34,6 +34,7 @@
 - [Minnesota Class Action Lawsuit Accuses Company Website of Inaccessibility](https://equalentry.com/accessibility-lawsuit-minnesota-class-action/)
 - [New Class Action Lawsuit against AccessiBe](https://www.lflegal.com/2024/07/accessibe-class-action/)
 - [New York State Will Require Accessibility Guidelines (WCAG) 2.2 for State and County Websites](https://equalentry.com/accessibility-guidelines-new-york/)
+- [Orozco v. Garland Establishes a New Pathway for Challenging Inaccessible Technology Beyond the Confines of the Interactive Process for Federal Employees with Disabilities.](https://browngold.com/blog/orozco-v-garland-establishes-pathway-for-challenging-inaccessible-technology/)
 - [Overlays and Ethics: a conference panel that hurt my heart](https://www.lflegal.com/2024/01/zero-con-overlay-panel/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)
 - [Small Business in Maine Pulled into Website Accessibility Lawsuit](https://equalentry.com/accessibility-small-business-maine/)

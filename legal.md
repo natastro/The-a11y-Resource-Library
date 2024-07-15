@@ -32,6 +32,7 @@
 - [Long Overdue Report Shows Deficient Accessibility for Many Federal Websites](https://www.adatitleiii.com/2023/02/long-overdue-report-shows-deficient-accessibility-for-many-federal-websites/)
 - [March 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/04/03/legal-update-march-2023/)
 - [Minnesota Class Action Lawsuit Accuses Company Website of Inaccessibility](https://equalentry.com/accessibility-lawsuit-minnesota-class-action/)
+- [New Class Action Lawsuit against AccessiBe](https://www.lflegal.com/2024/07/accessibe-class-action/)
 - [New York State Will Require Accessibility Guidelines (WCAG) 2.2 for State and County Websites](https://equalentry.com/accessibility-guidelines-new-york/)
 - [Overlays and Ethics: a conference panel that hurt my heart](https://www.lflegal.com/2024/01/zero-con-overlay-panel/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)

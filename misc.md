@@ -66,6 +66,7 @@
 - [Foundations: accessible names and descriptions](https://tetralogical.com/blog/2023/04/05/accessible-names-and-descriptions/)
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [Furiosa and the Disability Wasteland](https://reactormag.com/furiosa-and-the-disability-wasteland/)
+- [Glossary of Accessibility Terms](https://www.a11yquest.com/guides/principles/glossary/index.html)
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)

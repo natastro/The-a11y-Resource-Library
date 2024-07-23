@@ -60,6 +60,7 @@
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
 - [Don’t Use Web•dev for Accessibility Info](https://adrianroselli.com/2024/07/dont-use-webdev-for-accessibility-info.html)
+- [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 - [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)

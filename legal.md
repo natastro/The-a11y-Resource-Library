@@ -16,6 +16,7 @@
 - [European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/)
 - [Government not meeting minimum accessibility standards on federal websites, GSA report finds](https://fedscoop.com/government-accessibility-standards-websites-gsa-report/)
 - [Health and Human Services Issues Rule to Prevent Disability Discrimination](https://equalentry.com/disability-discrimination-hhs/)
+- [Hotel Accessibility Class Action Lawsuit](https://equalentry.com/accessibility-hotel-class-action-lawsuit/)
 - [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)
 - [January 2024 Accessibility Legal Update](https://convergeaccessibility.com/2024/01/29/legal-update-january-2024/)

@@ -24,6 +24,7 @@
 - [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
 - [Beware – automatic tools over-report accessibility issues and steal your time](https://cerovac.com/a11y/2024/04/beware-automatic-tools-over-report-accessibility-issues-and-steal-your-time/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
+- [Beyond Basic Alt Text – Charts, Maps, and Diagrams](https://equidox.co/blog/beyond-basic-alt-text-charts-maps-and-diagrams/)
 - [ButtonBuddy - Accessible button contrast generator](https://buttonbuddy.dev/)
 - [Buttons and Links - common misconceptions](https://accessbydesign.uk/buttons-and-links-common-misconceptions/)
 - [Carry On Testing 2023](https://www.tpgi.com/carry-on-testing-2023/)

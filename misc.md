@@ -166,6 +166,7 @@
 - [When security and accessibility clash: why are banking applications so inaccessible?](https://www.nicchan.me/blog/when-security-and-accessibility-clash/)
 - [Why ‘dark mode’ causes more accessibility issues than it solves | by H Locke | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/why-dark-mode-causes-more-accessibility-issues-than-it-solves-d2f8359bb46a)
 - [Why You Need To Do User Testing With Deaf And Hard Of Hearing People | Fable](https://makeitfable.com/article/user-testing-deaf-hoh/)
+- [Widgets vs. Direct Remediation: A cost analysis for SMBs](https://afixt.com/widgets-vs-direct-remediation-a-cost-analysis-for-smbs/)
 - [Your eight-step PDF accessibility checklist](https://www.deque.com/blog/your-eight-step-pdf-accessibility-checklist/)
 - [Your site or app should work as much as possible without JavaScript](https://gomakethings.com/your-site-or-app-should-work-as-much-as-possible-without-javascript/)
 - [#A11y Rules Podcast - Conversations around web accessibility](https://a11yrules.com/)

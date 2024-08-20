@@ -109,6 +109,7 @@
 - [Morgan's Wonderland - The World's First Ultra-Accessible™ Theme Park](https://morganswonderland.org/)
 - [My Approach to Alt Text](https://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
+- [Navigating the Accessibility Challenges of LinkedIn Carousels](https://intopia.digital/articles/navigating-the-accessibility-challenges-of-linkedin-carousels/)
 - [ND Life Experiences](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/nd-life-experiences-22?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
 - [Neurodiversity and UX: Essential Resources for Cognitive Accessibility](https://stephaniewalter.design/blog/neurodiversity-and-ux-essential-resources-for-cognitive-accessibility/)
 - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)

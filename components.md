@@ -57,6 +57,7 @@
 - [Requirement Rules for Checkboxes](https://www.aaron-gustafson.com/notebook/requirement-rules-for-checkboxes/)
 - [Simplifying Form Styles With accent-color — Smashing Magazine](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 - [States | Material Design](https://material.io/design/interaction/states.html#usage)
+- [The anchor element](https://heydonworks.com/article/the-anchor-element/)
 - [The H1 Conundrum: Understanding the Challenges of Heading Level One](https://www.digitala11y.com/the-h1-conundrum-understanding-the-challenges-of-heading-level-one/)
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
 - [Turning the tables on accessibility](https://www.theguardian.com/info/2022/feb/22/turning-the-tables-on-accessibility)

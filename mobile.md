@@ -49,6 +49,7 @@
 - [Sliders - Material Design 3](https://m3.material.io/components/sliders/overview)
 - [🎥 Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4)
 - [Text resizing in iOS and Android](https://www.a11yproject.com/posts/text-resizing-in-ios-and-android/)
+- [Top 5 iOS Mobile App Accessibility Issues Pt 1.](https://dev.to/steady5063/top-5-ios-mobile-app-accessibility-issues-pt-1-51g8)
 - [Traits of a good accessible iOS app](https://levelup.gitconnected.com/traits-of-a-good-accessible-ios-app-25266ee08fb9)
 - [Use Switch Control to navigate your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT201370)
 - [What iOS Accessibility Notifications Do](https://moba11y.com/blog/what-ios-accessibility-notifications-do/)

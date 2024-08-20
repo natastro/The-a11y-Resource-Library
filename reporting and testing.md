@@ -91,6 +91,7 @@
 - [WCAG 2.1 Primer](https://alphagov.github.io/wcag-primer/)
 - [WCAG 2.1 success criteria filter tool | CANAXESS](https://wcag-filter-tool.com/)
 - [WCAG 2.2 Detective Skills](https://accessibility.blog.gov.uk/2024/03/13/wcag-2-2-detective-skills/)
+- [WCAG 2.2 map by theme](https://www.andrewhick.com/accessibility/wcag-map/)
 - [WCAG-EM-Report-Tool](https://www.w3.org/WAI/eval/report-tool/)
 - [wcagify  -  npm](https://www.npmjs.com/package/wcagify)
 - [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)

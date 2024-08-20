@@ -155,6 +155,7 @@
 - [Vision Accessibility on Apple Vision Pro](https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro)
 - [Vision Pro Accessibility in the Real(ish) World](https://sixcolors.com/post/2024/02/vision-pro-accessibility-in-the-realish-world/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
+- [WCAG, VPAT, s508, Level A – What on earth?](https://intopia.digital/articles/wcag-vpat-s508-level-a-what-on-earth/)
 - [We are Colorblind](https://wearecolorblind.com/)
 - [We need beach access for everyone, and that includes people with a disability (theconversation.com)](https://theconversation.com/we-need-beach-access-for-everyone-and-that-includes-people-with-a-disability-154158?utm_medium=amplinkedin&utm_source=linkedin)
 - [Web Accessibility: An Overview for Businesses and Consultants](https://www.viget.com/articles/web-accessibility-an-overview-for-businesses-and-consultants/)

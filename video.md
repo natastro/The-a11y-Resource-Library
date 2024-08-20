@@ -4,6 +4,7 @@
 - [Amazon Has 8 Useful Accessibility Features Available on Prime Video, Alexa, and Other Amazon Devices](https://cordcuttersnews.com/amazon-has-8-useful-accessibility-features-available-on-prime-video-alexa-and-other-amazon-devices/)
 - [Amazon's Fire TV expands Audio Streaming for Hearing Aids to Cochlear implants](https://www.aboutamazon.com/news/devices/amazons-fire-tv-expands-audio-streaming-for-hearing-aids-to-cochlear-implants)
 - [Automatic Captions: Our Experiments and Best Practices](https://equalentry.com/automatic-captions-experiments-best-practices/)
+- [Captions vs. Subtitles: Leave No Viewer Behind](https://meryl.net/captions-vs-subtitles/)
 - [Considerations for TV user interface accessibility](https://tetralogical.com/blog/2023/08/09/tv-accessibility-considerations/)
 - [Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX](https://www.smashingmagazine.com/2023/01/closed-captions-subtitles-ux/)
 - [FCC Requires Video Conferencing Accessibility & Proposes ASL Support](https://www.fcc.gov/document/fcc-requires-video-conferencing-accessibility-proposes-asl-support)

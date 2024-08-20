@@ -83,6 +83,7 @@
 - [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
 - [The Accessibility Hat Trick: Getting Abbreviations Right](https://alistapart.com/article/hattrick/)
 - [The Ballad of Text Overflow](https://www.tpgi.com/the-ballad-of-text-overflow/)
+- [The importance of communication in accessibility testing](https://convergeaccessibility.com/2024/08/12/the-importance-of-communication-in-accessibility-testing/)
 - [The Ultimate Guide to Automatic Accessibility Testing in CI/CD for React Apps](https://a5h.dev/post/how-to-test-for-a11y-in-react-app-cicd/)
 - [This is WCAG](https://thisiswcag.com/)
 - [Triaging WCAG 2.1 Level AAA](https://tetralogical.com/blog/2022/05/20/triaging-wcag-level-aaa/)

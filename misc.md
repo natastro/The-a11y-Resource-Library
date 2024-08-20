@@ -5,6 +5,7 @@
 - [A complete guide for content creators to start making accessible content](https://blog.pope.tech/2024/04/01/a-complete-guide-for-content-creators-to-start-making-accessible-content/)
 - [A Developer’s Guide for Web Accessibility](https://scribe.rip/@askParamSingh/a-developers-guide-for-web-accessibility-6b85448cc7a0)
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
+- [A visionary approach: How an Argonne team developed accessible maps for colorblind scientists](https://www.anl.gov/article/a-visionary-approach-how-an-argonne-team-developed-accessible-maps-for-colorblind-scientists)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)

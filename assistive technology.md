@@ -41,6 +41,7 @@
 - [Amazon debuts Eye Gaze accessibility features on the Fire Max 11 tablet](https://www.engadget.com/amazon-debuts-eye-gaze-accessibility-features-on-the-fire-max-11-tablet-154042714.html?fbclid=IwAR2oHcJ465LqNa9KgV_U07M63aO43UGs0r5gPQ5EbrxsHDRuKfoL4Svmyt0_aem_AaNAD4VZEHu0UiF-r4kRnwGoNevpkY-onVFLnV0za9yqY59b2ZZaC2QibjZz8eQf9-g&mibextid=S66gvF)
 - [Apple's highlights how its new tool helps disabled users communicate with Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice)
 - [Assistive Technology in Action - Meet Mason](https://www.youtube.com/watch?v=IcUNnnwFm4g&list=PLMe9zDtTPTVe62Gb6b9Dkk_IPBUTGQHoD)
+- [AT Is More Than Screen Readers](https://adrianroselli.com/2024/08/at-is-more-than-screen-readers.html)
 - [Be My Eyes](https://www.bemyeyes.com/)
 - [Challenge 2: Assistive Tech](https://hackaday.io/contest/190152-supplyframe-designlab-2023-hackaday-prize/log/216918-challenge-2-assistive-tech?mibextid=Zxz2cZ)
 - [Coding accessibility: Disability as catalyst for creativity](https://github.com/readme/featured/disability-creativity)

@@ -32,6 +32,7 @@
 - [Comic Sans is a good typeface, actually](https://ericwbailey.design/writing/comic-sans-is-a-good-typeface-actually/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
 - [Creating A High-Contrast Design System With CSS Custom Properties](https://www.smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/)
+- [Creating accessible digital colour palettes using the 60-30-10 design rule](https://www.visionaustralia.org/business-consulting/digital-access/Creating-accessible-digital-colour-palettes-60-30-10-design-rule)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Design system breakdown: checkbox & radio](https://uxdesign.cc/design-system-breakdown-checkbox-radio-7d8a389b0e85)
 - [Designing Accessible Color Palettes in Figma: A Guide for Web Accessibility](https://knowbility.org/blog/2024/designing-accessible-color-palettes-in-figma-2024)

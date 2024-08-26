@@ -134,6 +134,7 @@
 - [Socks, lies, and accessibility](https://janmaarten.com/gaad-2023/)
 - [Software accessibility for users with Attention Deficit Disorder (ADHD)](https://uxdesign.cc/software-accessibility-for-users-with-attention-deficit-disorder-adhd-f32226e6037c)
 - [Stop trying to recruit unicorns with acorns](https://www.craigabbott.co.uk/blog/stop-trying-to-recruit-unicorns-with-acorns/)
+- [Stripes(): the border function you never knew you needed](https://www.joshtumath.uk/posts/2024-08-02-stripes-the-border-function-you-never-knew-you-needed/)
 - [Tech Writing for Accessibility self-study](https://developers.google.com/tech-writing/accessibility/self-study)
 - [Text descriptions for data visualisations](https://accessibility.blog.gov.uk/2023/04/13/text-descriptions-for-data-visualisations/)
 - [The accessibility community is not the disability community](https://buttondown.email/practicaltips/archive/the-accessibility-community-is-not-the-disability/)

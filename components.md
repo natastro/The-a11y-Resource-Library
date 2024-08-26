@@ -40,6 +40,7 @@
 - [Fine-tuning Text Inputs](https://garrettdimon.com/journal/posts/fine-tuning-text-inputs)
 - [Focus state ideas by Kelsey Cavitt on Dribbble](https://dribbble.com/shots/12592251-Focus-state-ideas)
 - [Foundations: headings](https://tetralogical.com/blog/2022/02/28/headings/)
+- [Foundations: labelling text fields with input and label](https://tetralogical.com/blog/2024/08/21/blog-post-input-label/)
 - [Foundations: lists](https://tetralogical.com/blog/2022/04/29/lists/)
 - [Foundations: native versus custom components](https://tetralogical.com/blog/2022/11/08/foundations-native-versus-custom-components/)
 - [How to style links that don't look ugly](https://gomakethings.com/how-to-style-links-that-dont-look-ugly/)

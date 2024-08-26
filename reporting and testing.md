@@ -83,6 +83,7 @@
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
 - [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
 - [The Accessibility Hat Trick: Getting Abbreviations Right](https://alistapart.com/article/hattrick/)
+- [The article element](https://heydonworks.com/article/the-article-element/)
 - [The Ballad of Text Overflow](https://www.tpgi.com/the-ballad-of-text-overflow/)
 - [The importance of communication in accessibility testing](https://convergeaccessibility.com/2024/08/12/the-importance-of-communication-in-accessibility-testing/)
 - [The Ultimate Guide to Automatic Accessibility Testing in CI/CD for React Apps](https://a5h.dev/post/how-to-test-for-a11y-in-react-app-cicd/)

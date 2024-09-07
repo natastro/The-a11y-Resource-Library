@@ -23,6 +23,7 @@
 - [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw&feature=youtu.be)
 
 ## Sign Language
+- [ASL Now](https://aslnow.com/)
 - [SLAIT’s real-time sign language translation promises more accessible online communication – TechCrunch](https://techcrunch.com/2021/04/26/slaits-real-time-sign-language-translation-promises-more-accessible-online-communication/)
 - [ScreenReader app](https://screenreader.app/)
 

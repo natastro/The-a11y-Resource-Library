@@ -157,6 +157,7 @@
 - [Using AI for Accessibility: Breaking Down Barriers in Content Creation?! — Moritz Gießmann, UX Engineer and Accessibility Expert from Karlsruhe, Germany.](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)
 - [Vision Accessibility on Apple Vision Pro](https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro)
 - [Vision Pro Accessibility in the Real(ish) World](https://sixcolors.com/post/2024/02/vision-pro-accessibility-in-the-realish-world/)
+- [Washington to fix accessibility violations at its state parks](https://www.seattletimes.com/seattle-news/politics/washington-to-fix-accessibility-violations-at-its-state-parks/)
 - [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 - [WCAG, VPAT, s508, Level A – What on earth?](https://intopia.digital/articles/wcag-vpat-s508-level-a-what-on-earth/)
 - [We are Colorblind](https://wearecolorblind.com/)

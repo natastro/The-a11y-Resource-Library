@@ -21,11 +21,11 @@
 ## Screenreader
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw&feature=youtu.be)
+- [ScreenReader app](https://screenreader.app/)
 
 ## Sign Language
 - [ASL Now](https://aslnow.com/)
 - [SLAIT’s real-time sign language translation promises more accessible online communication – TechCrunch](https://techcrunch.com/2021/04/26/slaits-real-time-sign-language-translation-promises-more-accessible-online-communication/)
-- [ScreenReader app](https://screenreader.app/)
 
 ## Switch Control
 - [Axess Lab |   Assistive Technologies  – The Switch](https://axesslab.com/switches/)

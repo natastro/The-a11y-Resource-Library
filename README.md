@@ -12,5 +12,6 @@
 - [Miscellaneous](https://github.com/natastro/a11y/blob/master/misc.md)
 - [Mobile Accessibility](https://github.com/natastro/a11y/blob/main/mobile.md)
 - [Reporting and Testing](https://github.com/natastro/a11y/blob/master/reporting%20and%20testing.md)
+- [Research](https://github.com/natastro/a11y/blob/main/research.md)
 - [Video](https://github.com/natastro/a11y/blob/main/video.md)
 - [Workplace Accessibility](https://github.com/natastro/a11y/blob/main/workplace%20accessibility.md)

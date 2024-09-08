@@ -119,6 +119,7 @@
 - [Overlay False Claims](https://overlayfalseclaims.com/)
 - [Overlay Position and Recommendations](https://www.accessibilityassociation.org/s/overlay-position-and-recommendations)
 - [Overlays Underwhelm: a11y NYC](https://adrianroselli.com/2022/03/overlays-underwhelm-a11y-nyc.html)
+- [p5.js Web Accessibility](https://p5js.org/contribute/web_accessibility/)
 - [PDFs, non-HTML documents, and accessibility](https://blog.pope.tech/2022/05/03/pdfs-non-html-documents-and-accessibility/)
 - [Photosensitive Epilepsy Analysis Tool (PEAT)](https://trace.umd.edu/peat/)
 - [Plain Language & Accessibility](https://mn.gov/mnit/media/blog/?id=38-614411)  

@@ -1,4 +1,4 @@
-# a11y
+# The a11y Resource Library
 
 - [Artificial Intelligence](https://github.com/natastro/a11y/blob/main/artificial%20intelligence)
 - [Assistive Technology](https://github.com/natastro/a11y/blob/master/assistive%20technology.md)

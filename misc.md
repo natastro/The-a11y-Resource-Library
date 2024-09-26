@@ -1,6 +1,7 @@
 # Miscellaneous
 
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
+- [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 - [3D Model Accessibility](https://scottvinkle.me/blogs/work/3d-model-accessibility)
 - [A complete guide for content creators to start making accessible content](https://blog.pope.tech/2024/04/01/a-complete-guide-for-content-creators-to-start-making-accessible-content/)
 - [A Developer’s Guide for Web Accessibility](https://scribe.rip/@askParamSingh/a-developers-guide-for-web-accessibility-6b85448cc7a0)

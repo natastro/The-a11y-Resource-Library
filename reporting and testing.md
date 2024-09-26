@@ -46,6 +46,7 @@
 - [First Public Working Draft: Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://www.w3.org/news/2024/first-public-working-draft-accessible-rich-internet-applications-wai-aria-1-3/)
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
+- [Headings (new)](https://webaim.org/techniques/headings/)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [How to browse the web with the keyboard alone](https://www.tempertemper.net/blog/how-to-browse-the-web-with-the-keyboard-alone)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)

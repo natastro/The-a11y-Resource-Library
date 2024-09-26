@@ -16,7 +16,8 @@
 [Fingerspelling with Machine Learning](https://fingerspelling.xyz/)
 
 ## Hearing Aids
-[How Apple Airpods and Other Wireless Earbuds Can Be Used as Hearing Aids](https://www.healthline.com/health-news/how-apple-airpods-and-other-wireless-earbuds-can-be-used-as-hearing-aids)
+- [Apple’s AirPods Pro Could Soon Disrupt the Hearing Aid Industry](https://www.wired.com/story/apple-airpods-pro-over-the-counter-hearing-aids/)
+- [How Apple Airpods and Other Wireless Earbuds Can Be Used as Hearing Aids](https://www.healthline.com/health-news/how-apple-airpods-and-other-wireless-earbuds-can-be-used-as-hearing-aids)
 
 ## Screenreader
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)

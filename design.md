@@ -21,6 +21,7 @@
 - [Accessible but never boring](https://wise.design/design-at-wise/stories/accessible-but-never-boring-part-2)
 - [Accessible color for design systems just got easier](https://medium.com/@NateBaldwin/accessible-color-for-design-systems-just-got-easier-40e8420a8371)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
+- [Accessible Colour Palettes](https://www.figma.com/community/file/909176640411029401)
 - [Accessible Palette: stop using HSL for color systems | Wildbit](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
 - [🎥 Adaptive SVGs for Accessibility, Responsiveness and More (with Heather S. Neff) | Some Antics](https://www.youtube.com/watch?v=CiNdH-iVFUs)
 - [Adding A Dyslexia-Friendly Mode To A Website — Smashing Magazine](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)

@@ -27,6 +27,7 @@
 - [Accommodating Neurodivergent Learners](https://a11ytalks.com/posts/2024-mar)
 - [Accounting for Internationalization with CSS and HTML](https://sparkbox.com/foundry/internationalization_css_html)
 - [Air Travel Accessibility: Are We Really in a Golden Age?](https://equalentry.com/air-travel-accessibility/)
+- [Airbus eyes cabin accessibility solutions; says industry not there yet](https://runwaygirlnetwork.com/2024/08/airbus-eyes-better-cabin-accessibility-says-industry-not-there-yet/)
 - [Allied Podcast: Making Data Visualization Accessible with Tori Clark](https://www.3playmedia.com/alliedpodcast/making-data-visualization-accessible-with-tori-clark/)
 - [Alternative text in the wild: 5 alternative text examples](https://blog.pope.tech/2023/03/31/alternative-text-in-the-wild-5-alternative-text-examples/)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)

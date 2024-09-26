@@ -60,6 +60,7 @@
 - [States | Material Design](https://material.io/design/interaction/states.html#usage)
 - [The anchor element](https://heydonworks.com/article/the-anchor-element/)
 - [The H1 Conundrum: Understanding the Challenges of Heading Level One](https://www.digitala11y.com/the-h1-conundrum-understanding-the-challenges-of-heading-level-one/)
+- [Tools and Techniques to Create Accessible Accordion Components](https://www.a11y-collective.com/blog/accessible-accordion/)
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
 - [Turning the tables on accessibility](https://www.theguardian.com/info/2022/feb/22/turning-the-tables-on-accessibility)
 - [Use the dialog element (reasonably)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)

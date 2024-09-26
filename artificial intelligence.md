@@ -3,6 +3,7 @@
 - [“AI” and accessible front-end components: is the nuance generatable?](https://hidde.blog/ai-for-accessible-components/)
 - [“AI” won’t solve accessibility](https://yatil.net/blog/ai-wont-solve-accessibility)
 - [AI is causing massive hiring discrimination based on disability](https://thehill.com/opinion/technology/4576649-ai-is-causing-massive-hiring-discrimination-based-on-disability/)
+- [Be careful when using generative artificial intelligence to produce code](https://cerovac.com/a11y/2024/09/be-careful-when-using-generative-artificial-intelligence-to-produce-code/)
 - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078?accessToken=zwAGFX3gMd8gkc88h3xVtphD2tOiIorhg_UweA.MEQCIDGz2yMno2XYTXgK5QdPOjLiQHfD04k5XYFPQn_UjgVbAiAoxbj52bXBd5ilNPVdauz75AxGmDaH4-aufqYtw3CmPQ&sharetype=gift&token=66604dfe-fe8c-45e2-8ab3-901b8b00cc57)
 - [Can generative AI help write accessible code?](https://tetralogical.com/blog/2024/02/12/can-generative-ai-help-write-accessible-code/)
 - [Disability Data Alarmingly Absent From AI Algorithmic Tools, Report Suggests](https://www.forbes.com/sites/gusalexiou/2024/08/06/disability-data-alarmingly-absent-from-ai-algorithmic-tools-report-suggests/)

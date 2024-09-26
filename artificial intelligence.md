@@ -8,6 +8,7 @@
 - [Can generative AI help write accessible code?](https://tetralogical.com/blog/2024/02/12/can-generative-ai-help-write-accessible-code/)
 - [Disability Data Alarmingly Absent From AI Algorithmic Tools, Report Suggests](https://www.forbes.com/sites/gusalexiou/2024/08/06/disability-data-alarmingly-absent-from-ai-algorithmic-tools-report-suggests/)
 - [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
+- [Harnessing Copilot and other gen-AI tools to increase digital accessibility efficiency](https://matthewdeeprose.github.io/harnessCopilot.html)
 - [I’m a Creative Director with Dyslexia, AI Takes My Creativity to Places I Never Imagined](https://www.printmag.com/creative-voices/im-a-creative-director-with-dyslexia-ai-takes-my-creativity-to-places-i-never-imagined/)
 - [No, AI user research is not “better than nothing”—it’s much worse](https://scribe.rip/no-ai-user-research-is-not-better-than-nothing-its-much-worse-5add678ab9e7)
 - [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)

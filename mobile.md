@@ -55,6 +55,7 @@
 - [Use Switch Control to navigate your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT201370)
 - [What iOS Accessibility Notifications Do](https://moba11y.com/blog/what-ios-accessibility-notifications-do/)
 - [What iOS Traits Actually Do](https://www.deque.com/blog/ios-traits/)
+- [What is Accessibility in Mobile Apps? Legal Requirements in App Development Series – Part I](https://www.thedroidsonroids.com/blog/what-is-accessibility-in-mobile-apps)
 - [What WCAG 2.2 Means for Native Mobile Accessibility](https://www.deque.com/blog/what-wcag-2-2-means-for-native-mobile-accessibility/)
 - [What's New in Android Accessibility](https://io.google/2023/program/dc29f421-2842-4838-bd87-1ac50f1ac00a/)
 - [Why Are There No Mobile Accessibility Guidelines in WCAG?](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)

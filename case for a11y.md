@@ -1,6 +1,7 @@
 # Case for Accessibility
 
 - [8 Key Elements for Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-for-creating-a-culture-of-accessibility/)
+- [Accessibility is for everyone: real life examples of the Curb Cut Effect](https://www.craftzing.com/what-we-think/insights/accessibility-is-for-everyone-the-curb-cut-effect)
 - [Accessibility Myths](https://a11ymyths.com/)
 - [Don’t care about accessibility? Resistance is futile!](https://cerovac.com/a11y/2024/02/dont-care-about-accessibility-resistance-is-futile/)
 - [Empathy Prompts](https://empathyprompts.net/)

@@ -43,6 +43,7 @@
 - [Automating Ableism](https://www.theverge.com/24066641/disability-ableism-ai-census-qalys)
 - [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Basic keyboard shortcut support for focused links](https://ericwbailey.website/published/basic-keyboard-shortcut-support-for-focused-links/)
+- [Basic Myths about Disability I Can't Believe We Still Have to Debunk](https://www.huffpost.com/entry/basic-myths-about-the-dis_b_9560556)
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)

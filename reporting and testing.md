@@ -87,6 +87,7 @@
 - [The Accessibility Hat Trick: Getting Abbreviations Right](https://alistapart.com/article/hattrick/)
 - [The article element](https://heydonworks.com/article/the-article-element/)
 - [The Ballad of Text Overflow](https://www.tpgi.com/the-ballad-of-text-overflow/)
+- [The blockquote element](https://heydonworks.com/article/the-blockquote-element/)
 - [The importance of communication in accessibility testing](https://convergeaccessibility.com/2024/08/12/the-importance-of-communication-in-accessibility-testing/)
 - [The Ultimate Guide to Automatic Accessibility Testing in CI/CD for React Apps](https://a5h.dev/post/how-to-test-for-a11y-in-react-app-cicd/)
 - [This is WCAG](https://thisiswcag.com/)

@@ -154,6 +154,7 @@
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [The road to HTMHell is paved with semantics — Vadim Makeev](https://pepelsbey.dev/articles/road-to-htmhell/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [The ultimate ADHD-friendly communication guide](https://fightingtalk.substack.com/p/adhd-friendly-communication-tips)
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)

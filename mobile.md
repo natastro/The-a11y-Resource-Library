@@ -45,6 +45,7 @@
 - [Mobile Accessibility Tools: Camera Switches and More](https://equalentry.com/mobile-accessibility-tools-camera-switches/)
 - [Mobile Tabs Part 2 – React Native](https://www.tpgi.com/mobile-tabs-part-2-react-native/)
 - [Mobile Tabs Part 3 – Flutter](https://www.tpgi.com/mobile-tabs-part-3-flutter/)
+- [Navigating Menus on Mobile: A Blind Diner's Accessibility Insights](https://blog.usablenet.com/navigating-menus-on-mobile-a-blind-diners-accessibility-insights)
 - [Performing accessibility audits with UI tests on iOS](https://augmentedcode.io/2024/02/26/performing-accessibility-audits-with-ui-tests-on-ios/)
 - [Principles for improving app accessibility](https://developer.android.com/guide/topics/ui/accessibility/principles)
 - [rmc-picker@5.0.10](http://react-component.github.io/m-picker/)

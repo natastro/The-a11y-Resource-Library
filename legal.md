@@ -18,6 +18,7 @@
 - [Health and Human Services Issues Rule to Prevent Disability Discrimination](https://equalentry.com/disability-discrimination-hhs/)
 - [Hotel Accessibility Class Action Lawsuit](https://equalentry.com/accessibility-hotel-class-action-lawsuit/)
 - [How a Maryland Lawsuit could Turn the Accessibility World Upside Down](https://www.linkedin.com/pulse/how-maryland-lawsuit-could-turn-accessibility-world-sheri/)
+- [How to use the DOJ’s new web accessibility regulation to justify IT, ADA, and legal collaboration](https://convergeaccessibility.com/2024/10/14/how-to-use-the-dojs-new-web-accessibility-regulation-to-justify-it-ada-and-legal-collaboration/)
 - [January 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/02/06/legal-update-january-2023/)
 - [January 2024 Accessibility Legal Update](https://convergeaccessibility.com/2024/01/29/legal-update-january-2024/)
 - [Justice Department Issues Web Accessibility Guidance Under the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)

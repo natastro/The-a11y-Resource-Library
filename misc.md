@@ -160,6 +160,7 @@
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Types of Color Vision Deficiency](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-vision-deficiency)
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
+- [Understanding VPATs and ACRs: Key Insights](https://tarnoff.info/2024/10/14/understanding-vpats-and-acrs-key-insights/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
 - [Using AI for Accessibility: Breaking Down Barriers in Content Creation?! — Moritz Gießmann, UX Engineer and Accessibility Expert from Karlsruhe, Germany.](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)
 - [Vision Accessibility on Apple Vision Pro](https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro)

@@ -1,9 +1,10 @@
-# The a11y Resource Library
+# The A11y Resource Library
 
 - [Artificial Intelligence](https://github.com/natastro/a11y/blob/main/artificial%20intelligence)
 - [Assistive Technology](https://github.com/natastro/a11y/blob/master/assistive%20technology.md)
 - [Case for Accessibility](https://github.com/natastro/a11y/blob/master/case%20for%20a11y.md)
 - [Components](https://github.com/natastro/a11y/blob/master/components.md)
+- [Content Creation](https://github.com/natastro/The-a11y-Resource-Library/blob/main/content%20creation.md)
 - [Data Visualization](https://github.com/natastro/a11y/blob/main/data%20visualization.md)
 - [Design](https://github.com/natastro/a11y/blob/master/design.md)
 - [Gaming](https://github.com/natastro/a11y/blob/main/gaming.md)
@@ -14,4 +15,5 @@
 - [Reporting and Testing](https://github.com/natastro/a11y/blob/master/reporting%20and%20testing.md)
 - [Research](https://github.com/natastro/a11y/blob/main/research.md)
 - [Video](https://github.com/natastro/a11y/blob/main/video.md)
+- [Wordpress Accessibility](#)
 - [Workplace Accessibility](https://github.com/natastro/a11y/blob/main/workplace%20accessibility.md)

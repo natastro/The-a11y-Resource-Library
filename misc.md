@@ -7,7 +7,6 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive ](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
-- [Accommodating Neurodivergent Learners](https://a11ytalks.com/posts/2024-mar)
 - [Accounting for Internationalization with CSS and HTML](https://sparkbox.com/foundry/internationalization_css_html)
 - [Air Travel Accessibility: Are We Really in a Golden Age?](https://equalentry.com/air-travel-accessibility/)
 - [Airbus eyes cabin accessibility solutions; says industry not there yet](https://runwaygirlnetwork.com/2024/08/airbus-eyes-better-cabin-accessibility-says-industry-not-there-yet/)

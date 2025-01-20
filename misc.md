@@ -7,7 +7,6 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive ](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
-- [Accessibility isn't new — and neither is ableism - M.A.W. Consulting, LLC](https://mawconsultingllc.com/2021/09/27/accessibility-isnt-new-and-neither-is-ableism/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessibility Myths](https://a11ymyths.com/)
 - [Accessibility overlays are not for disabled people](https://www.tempertemper.net/blog/accessibility-overlays-are-not-for-disabled-people)

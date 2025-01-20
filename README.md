@@ -12,6 +12,7 @@
 - [Design](https://github.com/natastro/a11y/blob/master/design.md)
 - [Events](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/events.md)
 - [Gaming](https://github.com/natastro/a11y/blob/main/gaming.md)
+- [Internationalization](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/internationalization.md)
 - [Learning](https://github.com/natastro/a11y/blob/master/learning.md)
 - [Legal](https://github.com/natastro/a11y/blob/master/legal.md)
 - [Mental Health](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/mental%20health.md)

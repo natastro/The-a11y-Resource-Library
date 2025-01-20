@@ -7,7 +7,6 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive ](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
-- [Accessible by design: how CERN Science Gateway exhibitions are tailored to people with visual impairments](https://home.cern/news/news/cern/accessible-design-how-cern-science-gateway-exhibitions-are-tailored-people-visual)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [Accessible Science: Chemistry 101](https://afb.org/aw/23/3/17883?_ga=2.206726672.2083777608.1649096491-1621399304.1639583769)
 - [Accommodating Neurodivergent Learners](https://a11ytalks.com/posts/2024-mar)

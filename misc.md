@@ -3,8 +3,6 @@
 - [13 Letters - Cognitive Dissidents (bemyeyes.com)](https://www.bemyeyes.com/podcasts/cognitive-dissidents)
 - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 - [3D Model Accessibility](https://scottvinkle.me/blogs/work/3d-model-accessibility)
-- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/)
-- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://www.tpgi.com/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Ableism and Related Terms You Need to Know](https://meryl.net/ableism-microaggressions/)
 - [Access Guide](https://www.accessguide.io/)

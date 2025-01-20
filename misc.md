@@ -58,6 +58,7 @@
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [DeafBlind communities may be creating a new language of touch ](https://www.newyorker.com/culture/annals-of-inquiry/deafblind-communities-may-be-creating-a-new-language-of-touch)
 - [Dear 3rd party vendor: How to check 3rd party vendors for accessibility plus an email template](https://blog.pope.tech/2024/09/02/check-3rd-party-vendors-for-accessibility/)
+- [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
 - [Disability community has long wrestled with ‘helpful’ technologies – lessons for everyone in dealing with AI](https://theconversation.com/disability-community-has-long-wrestled-with-helpful-technologies-lessons-for-everyone-in-dealing-with-ai-227979)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)

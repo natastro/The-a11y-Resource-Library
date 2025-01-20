@@ -4,7 +4,6 @@
 - [3D Model Accessibility](https://scottvinkle.me/blogs/work/3d-model-accessibility)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [Ableism and Related Terms You Need to Know](https://meryl.net/ableism-microaggressions/)
-- [Access Guide](https://www.accessguide.io/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)

@@ -8,6 +8,7 @@
 - [The A11Y Collective - Web Accessibility Courses and Training](https://www.a11y-collective.com/)
 - [Accessibility - Online Courses, Classes, Training, Tutorials on Lynda](https://www.lynda.com/Accessibility-training-tutorials/1286-0.html)
 - [Accessibility Free Online Courses and MOOCs](https://www.mooc-list.com/tags/accessibility)
+- [Accessibility Myths](https://a11ymyths.com/)
 - [All of Learn Accessibility! is available](https://web.dev/learn-accessibility-available/)
 - [Build & Test Accessible Web Apps | Testing Accessibility](https://testingaccessibility.com/)
 - [Course List - Digital Accessibility Education, Training, and Certification](https://www.w3.org/WAI/courses/list/)

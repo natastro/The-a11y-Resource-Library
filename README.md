@@ -13,6 +13,7 @@
 - [Gaming](https://github.com/natastro/a11y/blob/main/gaming.md)
 - [Learning](https://github.com/natastro/a11y/blob/master/learning.md)
 - [Legal](https://github.com/natastro/a11y/blob/master/legal.md)
+- [Mental Health](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/mental%20health.md)
 - [Miscellaneous](https://github.com/natastro/a11y/blob/master/misc.md)
 - [Mobile Accessibility](https://github.com/natastro/a11y/blob/main/mobile.md)
 - [Reporting and Testing](https://github.com/natastro/a11y/blob/master/reporting%20and%20testing.md)

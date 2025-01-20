@@ -5,6 +5,7 @@
 - [Assistive Technology](https://github.com/natastro/a11y/blob/master/assistive%20technology.md)
 - [Case for Accessibility](https://github.com/natastro/a11y/blob/master/case%20for%20a11y.md)
 - [Coding](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/coding.md)
+- [Cognitive](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/cognitive.md)
 - [Components](https://github.com/natastro/a11y/blob/master/components.md)
 - [Content Creation](https://github.com/natastro/The-a11y-Resource-Library/blob/main/content%20creation.md)
 - [Data Visualization](https://github.com/natastro/a11y/blob/main/data%20visualization.md)

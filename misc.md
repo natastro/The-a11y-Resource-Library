@@ -7,7 +7,6 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive ](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
-- [Accessibility Myths](https://a11ymyths.com/)
 - [Accessibility overlays are not for disabled people](https://www.tempertemper.net/blog/accessibility-overlays-are-not-for-disabled-people)
 - [Accessible by design: how CERN Science Gateway exhibitions are tailored to people with visual impairments](https://home.cern/news/news/cern/accessible-design-how-cern-science-gateway-exhibitions-are-tailored-people-visual)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)

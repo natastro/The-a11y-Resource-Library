@@ -42,6 +42,7 @@
 - [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
 - [Disability community has long wrestled with ‘helpful’ technologies – lessons for everyone in dealing with AI](https://theconversation.com/disability-community-has-long-wrestled-with-helpful-technologies-lessons-for-everyone-in-dealing-with-ai-227979)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
+- [Disability often neglected in medical school curricula, new study finds](https://www.eurekalert.org/news-releases/1070673)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
 - [Don’t Use Web•dev for Accessibility Info](https://adrianroselli.com/2024/07/dont-use-webdev-for-accessibility-info.html)

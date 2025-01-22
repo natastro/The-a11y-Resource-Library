@@ -24,5 +24,6 @@
 - [Science](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/science.md)
 - [Travel](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/travel.md)
 - [Video](https://github.com/natastro/a11y/blob/main/video.md)
+- [WCAG](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/wcag.md)
 - [Wordpress Accessibility](https://github.com/natastro/The-a11y-Resource-Library/blob/main/wordpress%20accessibility.md)
 - [Workplace Accessibility](https://github.com/natastro/a11y/blob/main/workplace%20accessibility.md)

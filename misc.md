@@ -120,6 +120,7 @@
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 - [Socks, lies, and accessibility](https://janmaarten.com/gaad-2023/)
 - [Software accessibility for users with Attention Deficit Disorder (ADHD)](https://uxdesign.cc/software-accessibility-for-users-with-attention-deficit-disorder-adhd-f32226e6037c)
+- [State and Local Governments: First Steps Toward Complying with the Americans with Disabilities Act Title II Web and Mobile Application Accessibility Rule](https://www.ada.gov/resources/web-rule-first-steps/)
 - [Stop trying to recruit unicorns with acorns](https://www.craigabbott.co.uk/blog/stop-trying-to-recruit-unicorns-with-acorns/)
 - [Stripes(): the border function you never knew you needed](https://www.joshtumath.uk/posts/2024-08-02-stripes-the-border-function-you-never-knew-you-needed/)
 - [Supporting Deaf-Owned Businesses: A Guide to Holiday Shopping](https://csd.org/stories/holiday-shopping-2023/)

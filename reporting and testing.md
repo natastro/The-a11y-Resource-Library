@@ -37,6 +37,7 @@
 - [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/)
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 1](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast/)
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 2 ](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast-part-2/)
+- [Digital accessibility portal: Criteria and tests](https://accessibilite.public.lu/en/raam1/referentiel-technique.html)
 - [Distinguishing between ARIA and native HTML attributes](https://www.deque.com/blog/distinguishing-between-aria-and-native-html-attributes/)
 - [Does WCAG 2.2 Level A apply to Native apps?](https://html5accessibility.com/stuff/2024/07/08/wcag-level-a-bang-for-your-app-a11y-buck/)
 - [Don’t Disable Form Controls](https://adrianroselli.com/2024/02/dont-disable-form-controls.html)

@@ -5,6 +5,7 @@
 - [ADHD Works](https://www.adhdworks.info/adhdresources)
 - [Google Meet Hardware](https://support.google.com/meethardware/?visit_id=637044140128881351-3938588490&rd=1#topic=9331059)
 - [Google Meet Keyboard Shortcuts](https://support.google.com/meet/answer/9298571?visit_id=637903904788101374-3547960251&rd=1#meet)
+- [How the return-to-office order affects people with disabilities](https://federalnewsnetwork.com/workforce/2025/01/how-the-return-to-office-order-affects-people-with-disabilities/)
 - [How to support your disabled colleagues](https://lifeofablindgirl.com/2022/12/04/how-to-support-your-disabled-colleagues/)
 - [JAN - Job Accommodation Network](https://askjan.org/index.cfm)
 - [Remote Work and Accessibility: Accommodations at Home](https://www.accessibility.com/blog/remote-work-and-accessibility-accommodations-at-home?utm_campaign=AccessibilityPlus%20Content&utm_content=177645582&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42128303)

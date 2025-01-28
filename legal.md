@@ -4,6 +4,7 @@
 - [#UserWay Will Get You Sued](https://adrianroselli.com/2021/09/userway-will-get-you-sued.html#LevelAccessBuysUserWay)
 - [Accessibility Advocates Sued by French Overlay Company](https://equalentry.com/accessibility-advocates-sued-by-french-overlay-company/)
 - [Accessibility Lawsuit Against Sweetgreen](https://equalentry.com/accessibility-lawsuit-against-sweetgreen/)
+- [ADA Title II: Top 20 questions answered](https://www.deque.com/blog/ada-title-ii-top-20-questions-answered/)
 - [ADA Title II: Urgent digital accessibility requirements for US state and local governments and their third-party vendors](https://www.deque.com/blog/ada-title-ii-urgent-digital-accessibility-requirements-for-us-state-and-local-governments-and-their-third-party-vendors/)
 - [ADA Update: Title II’s Final Rule Clarifies Captioning and Audio Description in Higher Education](https://www.3playmedia.com/blog/ada-update-final-rule-a-clearer-picture-for-captioning-and-audio-description-in-higher-education/)
 - [An introduction to the European Accessibility Act (EAA)](https://www.deque.com/blog/european-accessibility-act-eaa-intro/)

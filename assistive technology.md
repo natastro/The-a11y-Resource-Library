@@ -44,6 +44,7 @@
 - [Apple's highlights how its new tool helps disabled users communicate with Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice)
 - [Assistive Technology in Action - Meet Mason](https://www.youtube.com/watch?v=IcUNnnwFm4g&list=PLMe9zDtTPTVe62Gb6b9Dkk_IPBUTGQHoD)
 - [AT Is More Than Screen Readers](https://adrianroselli.com/2024/08/at-is-more-than-screen-readers.html)
+- [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Be My Eyes](https://www.bemyeyes.com/)
 - [Challenge 2: Assistive Tech](https://hackaday.io/contest/190152-supplyframe-designlab-2023-hackaday-prize/log/216918-challenge-2-assistive-tech?mibextid=Zxz2cZ)
 - [Coding accessibility: Disability as catalyst for creativity](https://github.com/readme/featured/disability-creativity)

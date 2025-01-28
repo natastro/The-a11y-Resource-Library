@@ -13,6 +13,7 @@
 - [Android Ally](https://github.com/qbalsdon/android_ally_issues)
 - [Android develop - General navigation](https://a11y-guidelines.orange.com/en/mobile/android/development/general-navigation/)
 - [Android Headings](https://qbalsdon.github.io/accessibility,/testing,/unit/tests,/heading/2023/03/13/accessibility-headings.html)
+- [Announcing the Compose Accessibility Techniques for Android™ Open Source Project](https://scribe.rip/cvs-health-tech-blog/announcing-the-compose-accessibility-techniques-for-android-open-source-project-9b95b28419f8)
 - [App accessibility: Commonly overlooked accessibility practices for mobile apps](https://bootcamp.uxdesign.cc/app-accessibility-commonly-overlooked-accessibility-practices-for-mobile-apps-98d82907b15c)
 - [Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 - [Apple introduces new features for cognitive accessibility, along with Live Speech, Personal Voice, and Point and Speak in Magnifier](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)

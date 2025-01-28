@@ -10,6 +10,7 @@
 - [Accessibility Free Online Courses and MOOCs](https://www.mooc-list.com/tags/accessibility)
 - [Accessibility Myths](https://a11ymyths.com/)
 - [All of Learn Accessibility! is available](https://web.dev/learn-accessibility-available/)
+- [Basic Myths about Disability I Can't Believe We Still Have to Debunk](https://www.huffpost.com/entry/basic-myths-about-the-dis_b_9560556)
 - [Build & Test Accessible Web Apps | Testing Accessibility](https://testingaccessibility.com/)
 - [Course List - Digital Accessibility Education, Training, and Certification](https://www.w3.org/WAI/courses/list/)
 - [Deque University: Web Accessibility Training and Courses](https://dequeuniversity.com/)

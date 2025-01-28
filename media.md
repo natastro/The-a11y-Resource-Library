@@ -1,3 +1,11 @@
+# Media
+
+## Podcasts
+
+- [Apple Podcasts Transcripts Are Changing Podcast Consumption](https://www.3playmedia.com/blog/apple-podcasts-transcripts-are-changing-the-way-users-consume-podcasts/)
+
+
+## Video
 - [A complete guide for adding captions to YouTube videos](https://blog.pope.tech/2024/05/24/a-complete-guide-for-adding-captions-to-youtube-videos/)
 - [A guide to the visual language of closed captions and subtitles | by Gareth Ford Williams | Oct, 2021 | UX Collective](https://uxdesign.cc/a-guide-to-the-visual-language-of-closed-captions-and-subtitles-2fda5fa2a325)
 - [Adding sign language to videos](https://tetralogical.com/blog/2023/03/07/adding-sign-language-to-video/)

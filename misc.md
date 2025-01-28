@@ -6,7 +6,6 @@
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
-- [Basic Myths about Disability I Can't Believe We Still Have to Debunk](https://www.huffpost.com/entry/basic-myths-about-the-dis_b_9560556)
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)

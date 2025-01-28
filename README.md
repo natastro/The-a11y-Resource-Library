@@ -1,4 +1,4 @@
-# The A11y Resource Library
+# The Accessibility Resource Library
 
 - [ARIA](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/ARIA.md)
 - [Artificial Intelligence](https://github.com/natastro/a11y/blob/main/artificial%20intelligence)
@@ -15,6 +15,7 @@
 - [Internationalization](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/internationalization.md)
 - [Learning](https://github.com/natastro/a11y/blob/master/learning.md)
 - [Legal](https://github.com/natastro/a11y/blob/master/legal.md)
+- [Media](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/media.md)
 - [Mental Health](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/mental%20health.md)
 - [Miscellaneous](https://github.com/natastro/a11y/blob/master/misc.md)
 - [Mobile Accessibility](https://github.com/natastro/a11y/blob/main/mobile.md)
@@ -23,7 +24,6 @@
 - [Research](https://github.com/natastro/a11y/blob/main/research.md)
 - [Science](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/science.md)
 - [Travel](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/travel.md)
-- [Video](https://github.com/natastro/a11y/blob/main/video.md)
 - [WCAG](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/wcag.md)
 - [Wordpress Accessibility](https://github.com/natastro/The-a11y-Resource-Library/blob/main/wordpress%20accessibility.md)
 - [Workplace Accessibility](https://github.com/natastro/a11y/blob/main/workplace%20accessibility.md)

@@ -7,7 +7,6 @@
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
-- [Are you making these five mistakes when writing alt text?](https://www.a11yproject.com/posts/are-you-making-these-five-mistakes-when-writing-alt-text/)
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)
 - [Arguments for opening links in a new tab or window](https://cloudfour.com/thinks/arguments-for-opening-links-in-a-new-tab-or-window/)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)

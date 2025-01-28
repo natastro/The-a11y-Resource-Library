@@ -23,6 +23,7 @@
 - [Assessing components and patterns for WCAG 2.2](https://scribe.rip/design-ibm/assessing-components-and-patterns-for-wcag-2-2-47ee3f0f468e)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
 - [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
+- [Basic keyboard shortcut support for focused links](https://ericwbailey.website/published/basic-keyboard-shortcut-support-for-focused-links/)
 - [Beware – automatic tools over-report accessibility issues and steal your time](https://cerovac.com/a11y/2024/04/beware-automatic-tools-over-report-accessibility-issues-and-steal-your-time/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
 - [Beyond Basic Alt Text – Charts, Maps, and Diagrams](https://equidox.co/blog/beyond-basic-alt-text-charts-maps-and-diagrams/)

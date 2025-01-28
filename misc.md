@@ -6,8 +6,6 @@
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
-- [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
-- [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [🎥 ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)
 - [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Basic keyboard shortcut support for focused links](https://ericwbailey.website/published/basic-keyboard-shortcut-support-for-focused-links/)

@@ -6,7 +6,6 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
-- [Apple Podcasts Transcripts Are Changing Podcast Consumption](https://www.3playmedia.com/blog/apple-podcasts-transcripts-are-changing-the-way-users-consume-podcasts/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
 - [Are you making these five mistakes when writing alt text?](https://www.a11yproject.com/posts/are-you-making-these-five-mistakes-when-writing-alt-text/)
 - [Are you ready to be anti-ableist in 2021? - Sheri Byrne-Haber's Blog (sheribyrnehaber.com)](https://sheribyrnehaber.com/are-you-ready-to-be-anti-ableist-in-2021/)

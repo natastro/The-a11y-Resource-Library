@@ -5,3 +5,4 @@
 - [Accessibility in JavaScript Frameworks Part 1: What's The Big Deal?](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-1-whats-the-big-deal-149e)
 - [Accessibility in JavaScript Frameworks Part 2: Comparing Each Framework](https://dev.to/steady5063/accessibility-in-javascript-frameworks-part-2-comparing-each-framework-41ch)
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
+- [Don’t Wrap Figure in a Link](https://adrianroselli.com/2025/01/dont-wrap-figure-in-a-link.html)

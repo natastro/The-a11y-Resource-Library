@@ -1,5 +1,14 @@
 # Media
 
+> ## Emoji Key
+> 🎥 Video Camera Emoji means this link contains a video
+
+---
+
+## Music
+
+- [🎥 ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)
+
 ## Podcasts
 
 - [Apple Podcasts Transcripts Are Changing Podcast Consumption](https://www.3playmedia.com/blog/apple-podcasts-transcripts-are-changing-the-way-users-consume-podcasts/)

@@ -32,6 +32,7 @@
 - [Legal update: May 2024](https://convergeaccessibility.com/2024/06/03/legal-update-may-2024/)
 - [Legal update double issue: February - March 2024](https://convergeaccessibility.com/2024/04/01/legal-update-february-march-2024/)
 - [LEGAL UPDATE: FEBRUARY 2023](https://convergeaccessibility.com/2023/03/01/legal-update-february-2023/)
+- [Lessons from AODA and the roadmap to 2035](https://www.deque.com/blog/lessons-from-aoda-and-the-roadmap-to-2035/)
 - [Long Overdue Report Shows Deficient Accessibility for Many Federal Websites](https://www.adatitleiii.com/2023/02/long-overdue-report-shows-deficient-accessibility-for-many-federal-websites/)
 - [March 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/04/03/legal-update-march-2023/)
 - [Minnesota Class Action Lawsuit Accuses Company Website of Inaccessibility](https://equalentry.com/accessibility-lawsuit-minnesota-class-action/)

@@ -59,3 +59,4 @@
 - [What Is the California Assembly Bill on Website Accessibility?](https://equalentry.com/website-accessibility-california-assembly-bill/)
 - [When it comes to digital accessibility lawsuits, the best defense is a good offense](https://www.deque.com/blog/when-it-comes-to-digital-accessibility-lawsuits-the-best-defense-is-a-good-offense/)
 - [White House is ‘doubling down’ on accessibility when it comes to digital experiences](https://fedscoop.com/white-house-omb-guidance-digital-first-experiences-website-accessibility/)
+- [Your Local Government Isn’t Ready to Evacuate Disabled People](https://www.motherjones.com/environment/2025/01/california-la-wildifres-disabled-evacuation-audit/)

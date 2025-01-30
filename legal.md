@@ -51,6 +51,7 @@
 - [The Impact of Recent U.S. Federal Rulemaking on Web and Digital Accessibility](https://webaim.org/blog/impact-of-rulemaking/)
 - [The Law on Website and Mobile Accessibility Continues to Grow at a Glacial Pace Even as Lawsuit Numbers Reach All-Time Highs](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/jf22/vu-launey-egan/)
 - [Trump calls DEI programs 'illegal.' He plans to end them in the federal government](https://www.npr.org/2025/01/23/nx-s1-5271588/trump-dei-diversity-equity-inclusion-federal-workers-government)
+- [Trump's DEI orders may halt progress for disabled workers](https://www.axios.com/2025/01/24/dei-orders-disabled-workers-telework)
 - [U.S. Federal Appeals Court Slams Unethical ADA Practice - Law Office of Lainey Feingold](https://www.lflegal.com/2021/08/eleventh-circuit-ethics/)
 - [VPAT Primer: What is a VPAT? | Digital Accessibility Digest (microassist.com)](https://www.microassist.com/digital-accessibility/vpat/)
 - [Website Accessibility Lawsuits Rising Exponentially In 2023 According To Latest Data](https://www.forbes.com/sites/gusalexiou/2023/06/30/website-accessibility-lawsuits-rising-exponentially-in-2023-according-to-latest-data/?sh=2dd9cd8a717f)

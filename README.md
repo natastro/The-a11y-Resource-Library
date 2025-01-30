@@ -21,6 +21,7 @@
 - [Miscellaneous](https://github.com/natastro/a11y/blob/master/misc.md)
 - [Mobile Accessibility](https://github.com/natastro/a11y/blob/main/mobile.md)
 - [Overlays](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/overlays.md)
+- [PDF](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/pdf.md)
 - [Reporting and Testing](https://github.com/natastro/a11y/blob/master/reporting%20and%20testing.md)
 - [Research](https://github.com/natastro/a11y/blob/main/research.md)
 - [Science](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/science.md)

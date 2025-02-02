@@ -27,6 +27,7 @@
 - [Beware – automatic tools over-report accessibility issues and steal your time](https://cerovac.com/a11y/2024/04/beware-automatic-tools-over-report-accessibility-issues-and-steal-your-time/)
 - [Beware False Negatives | Adrian Roselli](https://adrianroselli.com/2021/09/beware-false-negatives.html)
 - [Beyond Basic Alt Text – Charts, Maps, and Diagrams](https://equidox.co/blog/beyond-basic-alt-text-charts-maps-and-diagrams/)
+- [Brief Note on Super- and Subscript text](https://adrianroselli.com/2022/09/brief-note-on-super-and-subscript-text.html)
 - [ButtonBuddy - Accessible button contrast generator](https://buttonbuddy.dev/)
 - [Buttons and Links - common misconceptions](https://accessbydesign.uk/buttons-and-links-common-misconceptions/)
 - [Carry On Testing 2023](https://www.tpgi.com/carry-on-testing-2023/)

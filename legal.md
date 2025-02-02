@@ -11,6 +11,7 @@
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
+- [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
 - [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
 - [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [European Accessibility Act (EAA) – Kiosks, touch screens and physical devices](https://axesslab.com/ict-a11y-eu/)

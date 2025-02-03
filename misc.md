@@ -116,6 +116,7 @@
 - [The Deaf Experience in Telehealth Accessibility](https://meryl.net/deaf-telehealth-accessibility/)
 - [The details and summary elements, again](https://www.scottohara.me//blog/2022/09/12/details-summary.html)
 - [The Hitchhiker’s Guide to Global Accessibility Awareness Day](https://www.lflegal.com/2022/05/hitchhiker-gaad/)
+- [The politics of accessibility](https://www.briandeconinck.com/the-politics-of-accessibility/)
 - [The problem with “click here” and “learn more” links | by Cynthia Marinakos | Oct, 2021 | UX Collective](https://uxdesign.cc/the-problem-with-click-here-and-learn-more-links-d01a0eba5cbd)
 - [The road to HTMHell is paved with semantics — Vadim Makeev](https://pepelsbey.dev/articles/road-to-htmhell/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)

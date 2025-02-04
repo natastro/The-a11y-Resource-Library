@@ -21,6 +21,7 @@
 - [Accessible Colors | WCAG 2.0 AA and AAA color contrast checker (accessible-colors.com)](https://accessible-colors.com/)
 - [ARIA role=”application” and mobile screen readers](https://cerovac.com/a11y/2024/03/aria-roleapplication-and-mobile-screen-readers/)
 - [Assessing components and patterns for WCAG 2.2](https://scribe.rip/design-ibm/assessing-components-and-patterns-for-wcag-2-2-47ee3f0f468e)
+- [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 - [Automated accessibility testing, a few scenarios - The A11Y Collective](https://www.a11y-collective.com/blog/automated-accessibility-testing-a-few-scenarios/)
 - [Basic accessibility mistakes I often see in audits](https://gomakethings.com/basic-accessibility-mistakes-i-often-see-in-audits/)
 - [Basic keyboard shortcut support for focused links](https://ericwbailey.website/published/basic-keyboard-shortcut-support-for-focused-links/)

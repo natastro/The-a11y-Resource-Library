@@ -5,6 +5,7 @@
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
 - [Accessibility Is Expensive](https://gracedowwrites.com/2024/08/14/accessibility-is-expensive/)
+- [Accessibility Technology and Innovation Lab at Verizon](https://equalentry.com/accessibility-lab-verizon/)
 - [Advancing Accessibility: Strategies for Continuous Improvement](https://equalentry.com/advancing-accessibility-strategies-for-continuous-improvement/)
 - [Apple Vision Pro – with 1% vision](https://axesslab.com/vision-pro-a11y/)
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)

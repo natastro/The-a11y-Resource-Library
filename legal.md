@@ -48,6 +48,7 @@
 - [States Need to Pay Attention to Oklahoma Mobile ID App Accessibility Court Case](https://equalentry.com/accessibility-oklahoma-mobile-id-app-court-case/)
 - [Takeaways from Lainey Feingold’s 2023 Digital Accessibility Legal Update](https://www.3playmedia.com/blog/lainey-feingolds-annual-digital-accessibility-legal-update/)
 - [The DOJ’s New Guidance Says Website Accessibility is an Enforcement Priority but Provides No New Legal Insights](https://www.adatitleiii.com/2022/03/the-dojs-new-guidance-says-website-accessibility-is-an-enforcement-priority-but-provides-no-new-legal-insights/)
+- [The Effect of Donald Trump’s DEI Executive Order on Accessibility ](https://www.lflegal.com/2025/01/week-one-exec-order-deia/)
 - [The European Accessibility Act and Irish Law](https://equalentry.com/accessibility-act-europe-irish-law/)
 - [The Impact of Recent U.S. Federal Rulemaking on Web and Digital Accessibility](https://webaim.org/blog/impact-of-rulemaking/)
 - [The Law on Website and Mobile Accessibility Continues to Grow at a Glacial Pace Even as Lawsuit Numbers Reach All-Time Highs](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/jf22/vu-launey-egan/)

@@ -9,3 +9,4 @@
 - [Building an accessible theme picker with HTML, CSS and JavaScript.](https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
 - [Don’t Wrap Figure in a Link](https://adrianroselli.com/2025/01/dont-wrap-figure-in-a-link.html)
+- [Foundations: grouping forms with <fieldset> and <legend>](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)

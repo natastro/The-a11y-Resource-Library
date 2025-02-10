@@ -1,5 +1,6 @@
 # Miscellaneous
 
+- [6 Questions for Eric Eggert](https://frontenddogma.com/posts/2025/6-questions-for-eric-eggert/)
 - [3D Model Accessibility](https://scottvinkle.me/blogs/work/3d-model-accessibility)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)

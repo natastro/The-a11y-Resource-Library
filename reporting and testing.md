@@ -108,5 +108,6 @@
 - [What Even Are Dragging Movements?](https://sparkbox.com/foundry/understanding_implementing_wcag_dragging_movements_accessibility)
 - [🎥 What the heck is ARIA? A Beginner's Guide to ARIA for Accessibility](https://a11ytalks.com/posts/2024-aug)
 - [When to use tabindex='0'](https://tetralogical.com/blog/2024/04/04/why-you-dont-need-to-use-tabindex='0'/)
+- [Which VoiceOver?](https://adrianroselli.com/2025/02/which-voiceover.html)
 - [Why you need to monitor and report on accessibility—all the time](https://www.deque.com/blog/why-you-need-to-monitor-and-report-on-accessibility-all-the-time/)
 - [Writing Accessibility Tests with Espresso](https://dev.to/steady5063/writing-accessibility-tests-with-espresso-53m9)

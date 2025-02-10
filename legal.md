@@ -49,6 +49,7 @@
 - [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
 - [States Need to Pay Attention to Oklahoma Mobile ID App Accessibility Court Case](https://equalentry.com/accessibility-oklahoma-mobile-id-app-court-case/)
 - [Takeaways from Lainey Feingold’s 2023 Digital Accessibility Legal Update](https://www.3playmedia.com/blog/lainey-feingolds-annual-digital-accessibility-legal-update/)
+- [The DOJ Provides Practical Guidance on How to Implement a Digital Accessibility Program](https://www.adatitleiii.com/2025/01/the-doj-provides-practical-guidance-on-how-to-implement-a-digital-accessibility-program/)
 - [The DOJ’s New Guidance Says Website Accessibility is an Enforcement Priority but Provides No New Legal Insights](https://www.adatitleiii.com/2022/03/the-dojs-new-guidance-says-website-accessibility-is-an-enforcement-priority-but-provides-no-new-legal-insights/)
 - [The Effect of Donald Trump’s DEI Executive Order on Accessibility ](https://www.lflegal.com/2025/01/week-one-exec-order-deia/)
 - [The European Accessibility Act and Irish Law](https://equalentry.com/accessibility-act-europe-irish-law/)

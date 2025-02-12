@@ -8,5 +8,6 @@
 - [Big, beautiful, beefy focus states with :focus-visible](https://daverupert.com/2024/01/focus-visible-love/)
 - [Building an accessible theme picker with HTML, CSS and JavaScript.](https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/)
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
+- [contrast-color() is a good thing, but also solving the problem at the wrong layer](https://ericwbailey.website/published/contrast-color-is-a-good-thing-but-also-solving-the-problem-at-the-wrong-layer/)
 - [Don’t Wrap Figure in a Link](https://adrianroselli.com/2025/01/dont-wrap-figure-in-a-link.html)
 - [Foundations: grouping forms with fieldset and legend](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)

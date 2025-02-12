@@ -3,6 +3,7 @@
 - [8 Key Elements for Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-for-creating-a-culture-of-accessibility/)
 - [Accessibility is for everyone: real life examples of the Curb Cut Effect](https://www.craftzing.com/what-we-think/insights/accessibility-is-for-everyone-the-curb-cut-effect)
 - [Accessibility Myths](https://a11ymyths.com/)
+- [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems)
 - [Don’t care about accessibility? Resistance is futile!](https://cerovac.com/a11y/2024/02/dont-care-about-accessibility-resistance-is-futile/)
 - [Empathy Prompts](https://empathyprompts.net/)
 - [handbook/leadership/bringing_others_along/ingredients_for_case at main · inclusive-design-and-development/handbook · GitHub](https://github.com/inclusive-design-and-development/handbook/tree/main/leadership/bringing_others_along/ingredients_for_case)

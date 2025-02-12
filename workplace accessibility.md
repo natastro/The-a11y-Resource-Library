@@ -3,6 +3,7 @@
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Accessibility in Our Products & Features — Google](https://about.google/belonging/disability-inclusion/product-accessibility/)
 - [ADHD Works](https://www.adhdworks.info/adhdresources)
+- [🎥 Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)
 - [Google Meet Hardware](https://support.google.com/meethardware/?visit_id=637044140128881351-3938588490&rd=1#topic=9331059)
 - [Google Meet Keyboard Shortcuts](https://support.google.com/meet/answer/9298571?visit_id=637903904788101374-3547960251&rd=1#meet)
 - [How the return-to-office order affects people with disabilities](https://federalnewsnetwork.com/workforce/2025/01/how-the-return-to-office-order-affects-people-with-disabilities/)

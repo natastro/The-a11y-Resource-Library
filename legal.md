@@ -45,6 +45,7 @@
 - [Orozco v. Garland Establishes a New Pathway for Challenging Inaccessible Technology Beyond the Confines of the Interactive Process for Federal Employees with Disabilities.](https://browngold.com/blog/orozco-v-garland-establishes-pathway-for-challenging-inaccessible-technology/)
 - [Overlays and Ethics: a conference panel that hurt my heart](https://www.lflegal.com/2024/01/zero-con-overlay-panel/)
 - [Search results for "ADA" - Justia Law](https://law.justia.com/lawsearch?query=ada)
+- [Section 504 | U.S. Department of Education](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)
 - [Small Business in Maine Pulled into Website Accessibility Lawsuit](https://equalentry.com/accessibility-small-business-maine/)
 - [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
 - [States Need to Pay Attention to Oklahoma Mobile ID App Accessibility Court Case](https://equalentry.com/accessibility-oklahoma-mobile-id-app-court-case/)

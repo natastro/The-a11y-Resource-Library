@@ -4,6 +4,7 @@
 - [Ableism](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/ableism.md)
 - [Artificial Intelligence](https://github.com/natastro/a11y/blob/main/artificial%20intelligence)
 - [Assistive Technology](https://github.com/natastro/a11y/blob/master/assistive%20technology.md)
+- [Books](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/books.md)
 - [Case for Accessibility](https://github.com/natastro/a11y/blob/master/case%20for%20a11y.md)
 - [Coding](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/coding.md)
 - [Cognitive](https://github.com/natastro/The-Accessibility-Resource-Library/blob/main/cognitive.md)

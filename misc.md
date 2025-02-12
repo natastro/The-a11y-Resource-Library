@@ -12,7 +12,6 @@
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
-- [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [DeafBlind communities may be creating a new language of touch ](https://www.newyorker.com/culture/annals-of-inquiry/deafblind-communities-may-be-creating-a-new-language-of-touch)

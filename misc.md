@@ -12,7 +12,6 @@
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
-- [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems)
 - [🎥 Creating Accessible and Inclusive Presentations](https://www.youtube.com/watch?v=hRR2VNFFLek)
 - [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)

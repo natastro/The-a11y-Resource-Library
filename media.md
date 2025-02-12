@@ -8,6 +8,7 @@
 ## Music
 
 - [🎥 ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)
+- [Commentary: What Coldplay concerts in Singapore tell us about music accessibility](https://www.channelnewsasia.com/commentary/coldplay-deaf-music-sign-language-interpreters-inclusivity-4125706)
 
 ## Podcasts
 

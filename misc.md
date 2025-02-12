@@ -12,7 +12,6 @@
 - [Be flexible about what people need (and don't assume).](https://www.erikkroes.nl/blog/be-flexible-about-what-people-need-and-dont-assume/)
 - [Brain scans can translate a person’s thoughts into words](https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social)
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
-- [Commentary: What Coldplay concerts in Singapore tell us about music accessibility](https://www.channelnewsasia.com/commentary/coldplay-deaf-music-sign-language-interpreters-inclusivity-4125706)
 - [Conducting Accessibility Research In An Inaccessible Ecosystem](https://www.smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/)
 - [contrast-color() is a good thing, but also solving the problem at the wrong layer](https://ericwbailey.website/published/contrast-color-is-a-good-thing-but-also-solving-the-problem-at-the-wrong-layer/)
 - [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems)

@@ -30,6 +30,7 @@
 - [Cognitive Accessibility Design Patterns](https://www.w3.org/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
+- [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
 - [Comic Sans is a good typeface, actually](https://ericwbailey.design/writing/comic-sans-is-a-good-typeface-actually/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
 - [Creating A High-Contrast Design System With CSS Custom Properties](https://www.smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/)
